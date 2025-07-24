@@ -1,0 +1,16 @@
+<odoo>
+    <data noupdate="0">
+
+        <!-- Full Access to Day Selection for Employees (or any group you choose) -->
+        <record id="model_day_selection_user_rule" model="ir.model.access">
+            <field name="name">day.selection user access</field>
+            <field name="model_id" ref="model_day_selection"/>
+            <field name="group_id" eval="False"/>  <!-- False = available to all users -->
+            <field name="perm_read" eval="1"/>
+            <field name="perm_write" eval="1"/>
+            <field name="perm_create" eval="1"/>
+            <field name="perm_unlink" eval="1"/>
+        </record>
+
+    </data>
+</odoo>
