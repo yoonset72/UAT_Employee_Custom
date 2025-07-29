@@ -1,4 +1,4 @@
-from odoo import models, fields, api
+from odoo import models, fields, api, _
 import logging, re
 
 _logger = logging.getLogger(__name__)
@@ -100,7 +100,7 @@ class Employee(models.Model):
                 if not manager.user_id:
                     # Try to create a user for the manager if none exists
                     try:
-                        login_email = manager.work_email or (manager.name.lower().replace(" ", "") + '@example.com')
+                        login_email = manager.work_email or (manager.name.lower().replace(" ", "") + '@agbcommunication.com')
                         user = self.env['res.users'].create({
                             'name': manager.name,
                             'login': login_email,
@@ -120,6 +120,8 @@ class Employee(models.Model):
             else:
                 rec.leave_manager_id = False
                 _logger.info(f"No manager found for department {rec.department_id.name if rec.department_id else 'N/A'}")
+
+   
 
     hr_officer_names = fields.Char(
         string="Time Off Officers",
@@ -141,9 +143,11 @@ class Employee(models.Model):
                     names.append(hr_dept.manager_id.name)
             rec.hr_officer_names = ', '.join(names) if names else ''
 
-    employee_id = fields.Char(string="Employee ID")
+    employee_number = fields.Char(string="Employee ID Number")
 
     personal_email = fields.Char(string="Email")
     personal_phone = fields.Char(string='Phone')
+    home_address = fields.Char(string=_('Home Address'))
+    bank_account = fields.Char(string=_('Bank Account'))
 
     

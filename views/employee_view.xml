@@ -114,15 +114,25 @@
 
                 <!-- Add new employee_id field before work_phone -->
                 <xpath expr="//field[@name='work_phone']" position="before">
-                    <field name="employee_id"/>
+                    <field name="employee_number"/>
                 </xpath>
+
+                <field name="address_home_id" position="attributes">
+                    <attribute name="invisible">1</attribute>
+                </field>
+
+                <field name="bank_account_id" position="attributes">
+                    <attribute name="invisible">1</attribute>
+                </field>
 
                 <!-- Add personal emial and phone -->
                 <xpath expr="//field[@name='address_home_id']" position="after">
+                    <field name="home_address" />
                     <field name="personal_email" />
                     <field name="personal_phone" />
+                    <field name="bank_account" />
                 </xpath>
-            
+          
              <xpath expr="//group[@name='managers']" position="inside">
                 <field name="hr_officer_names" readonly="1"/>
             </xpath>
