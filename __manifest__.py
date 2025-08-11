@@ -11,7 +11,7 @@
         'views/employee_view.xml',
         'security/ir.model.access.csv',
         'data/nrc_township_data.xml',
-        'security/off_day_selection_security.xml'
+        'security/off_day_selection_security.xml',
     ],
     'installable': True,
     'application': False,

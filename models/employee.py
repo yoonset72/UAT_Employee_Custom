@@ -7,13 +7,13 @@ class Employee(models.Model):
     _inherit = 'hr.employee'
 
     nrc_state_code = fields.Selection([
-        ('1', '1'), ('2', '2'),
-        ('3', '3'), ('4', '4'),
-        ('5', '5'), ('6', '6'),
-        ('7', '7'), ('8', '8'),
-        ('9', '9'), ('10', '10'),
-        ('11', '11'), ('12', '12'),
-        ('13', '13'), ('14', '14'),
+        ('၁', '၁'), ('၂', '၂'),
+        ('၃', '၃'), ('၄', '၄'),
+        ('၅', '၅'), ('၆', '၆'),
+        ('၇', '၇'), ('၈', '၈'),
+        ('၉', '၉'), ('၁၀', '၁၀'),
+        ('၁၁', '၁၁'), ('၁၂', '၁၂'),
+        ('၁၃', '၁၃'), ('၁၄', '၁၄'),
     ], string="NRC State Code")
 
     nrc_township_id = fields.Many2one(
@@ -149,5 +149,9 @@ class Employee(models.Model):
     personal_phone = fields.Char(string='Phone')
     home_address = fields.Char(string=_('Home Address'))
     bank_account = fields.Char(string=_('Bank Account'))
+    certification_ids = fields.Many2many(
+        'certification',
+        string="Certifications"
+    )
 
     

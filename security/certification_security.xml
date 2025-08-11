@@ -2,9 +2,9 @@
     <data noupdate="0">
 
         <!-- Full Access to Day Selection for Employees (or any group you choose) -->
-        <record id="model_day_selection_user_rule" model="ir.model.access">
-            <field name="name">day.selection user access</field>
-            <field name="model_id" ref="model_day_selection"/>
+        <record id="model_certification_user_rule" model="ir.model.access">
+            <field name="name">certification user access</field>
+            <field name="model_id" ref="certification"/>
             <field name="group_id" eval="False"/>  
             <field name="perm_read" eval="1"/>
             <field name="perm_write" eval="1"/>

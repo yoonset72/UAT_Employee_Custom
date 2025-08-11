@@ -6,2153 +6,2153 @@
         <record id="nrc_township_angyanyan" model="nrc.township">
             <field name="name">(အဂယ) အင်ဂျန်းယန်</field>
             <field name="code">အဂယ</field>
-            <field name="state_code">1</field>
+            <field name="state_code">၁</field>
         </record>
         <record id="nrc_township_banmauk" model="nrc.township">
             <field name="name">(ဗမန) ဗန်းမော်</field>
             <field name="code">ဗမန</field>
-            <field name="state_code">1</field>
+            <field name="state_code">၁</field>
         </record>
         <record id="nrc_township_chiphwe" model="nrc.township">
             <field name="name">(ခဖန) ချီဖွေ</field>
             <field name="code">ခဖန</field>
-            <field name="state_code">1</field>
+            <field name="state_code">၁</field>
         </record>
         <record id="nrc_township_dotphoneyan" model="nrc.township">
             <field name="name">(ဒဖယ) ဒေါ့ဖုန်းယန်</field>
             <field name="code">ဒဖယ</field>
-            <field name="state_code">1</field>
+            <field name="state_code">၁</field>
         </record>
         <record id="nrc_township_hopin" model="nrc.township">
             <field name="name">(ဟပန) ဟိုပင်</field>
             <field name="code">ဟပန</field>
-            <field name="state_code">1</field>
+            <field name="state_code">၁</field>
         </record>
         <record id="nrc_township_kamanee" model="nrc.township">
             <field name="name">(ကမန) ကာမီ</field>
             <field name="code">ကမန</field>
-            <field name="state_code">1</field>
+            <field name="state_code">၁</field>
         </record>
         <record id="nrc_township_kaunglanphu" model="nrc.township">
             <field name="name">(ခလဖ) ခေါင်လန်ဖူး</field>
             <field name="code">ခလဖ</field>
-            <field name="state_code">1</field>
+            <field name="state_code">၁</field>
         </record>
         <record id="nrc_township_lwegel" model="nrc.township">
             <field name="name">(လဂန) လွယ်ဂျယ်</field>
             <field name="code">လဂန</field>
-            <field name="state_code">1</field>
+            <field name="state_code">၁</field>
         </record>
         <record id="nrc_township_machanbaw" model="nrc.township">
             <field name="name">(မခဘ) မချမ်းဘော</field>
             <field name="code">မခဘ</field>
-            <field name="state_code">1</field>
+            <field name="state_code">၁</field>
         </record>
         <record id="nrc_township_mansi" model="nrc.township">
             <field name="name">(မစန) မံစီ</field>
             <field name="code">မစန</field>
-            <field name="state_code">1</field>
+            <field name="state_code">၁</field>
         </record>
         <record id="nrc_township_moenyin" model="nrc.township">
             <field name="name">(မညန) မိုးညင်း</field>
             <field name="code">မညန</field>
-            <field name="state_code">1</field>
+            <field name="state_code">၁</field>
         </record>
         <record id="nrc_township_mogaung" model="nrc.township">
             <field name="name">(မကတ) မိုးကောင်း</field>
             <field name="code">မကတ</field>
-            <field name="state_code">1</field>
+            <field name="state_code">၁</field>
         </record>
         <record id="nrc_township_mohnyin" model="nrc.township">
             <field name="name">(မမန) မိုးမောက်</field>
             <field name="code">မမန</field>
-            <field name="state_code">1</field>
+            <field name="state_code">၁</field>
         </record>
         <record id="nrc_township_myekyina" model="nrc.township">
             <field name="name">(မကန) မြစ်ကြီးနား</field>
             <field name="code">မကန</field>
-            <field name="state_code">1</field>
+            <field name="state_code">၁</field>
         </record>
         <record id="nrc_township_naungmoon" model="nrc.township">
             <field name="name">(နမန) နောင်မွန်း</field>
             <field name="code">နမန</field>
-            <field name="state_code">1</field>
+            <field name="state_code">၁</field>
         </record>
         <record id="nrc_township_phakant" model="nrc.township">
             <field name="name">(ဖကန) ဖားကန့်</field>
             <field name="code">ဖကန</field>
-            <field name="state_code">1</field>
+            <field name="state_code">၁</field>
         </record>
         <record id="nrc_township_putao" model="nrc.township">
             <field name="name">(ပတအ) ပူတာအို</field>
             <field name="code">ပတအ</field>
-            <field name="state_code">1</field>
+            <field name="state_code">၁</field>
         </record>
         <record id="nrc_township_shwegu" model="nrc.township">
             <field name="name">(ရကန်) ရွှေကူ</field>
             <field name="code">ရကန်</field>
-            <field name="state_code">1</field>
+            <field name="state_code">၁</field>
         </record>
         <record id="nrc_township_senbo" model="nrc.township">
             <field name="name">(ဆဘန) ဆင်ဘို</field>
             <field name="code">ဆဘန</field>
-            <field name="state_code">1</field>
+            <field name="state_code">၁</field>
         </record>
         <record id="nrc_township_sawlaw" model="nrc.township">
             <field name="name">(ဆလန) ဆော့လော</field>
             <field name="code">ဆလန</field>
-            <field name="state_code">1</field>
+            <field name="state_code">၁</field>
         </record>
         <record id="nrc_township_sumpra_bum" model="nrc.township">
             <field name="name">(ဆပဘ) ဆွမ်ပရာဘွမ်</field>
             <field name="code">ဆပဘ</field>
-            <field name="state_code">1</field>
+            <field name="state_code">၁</field>
         </record>
         <record id="nrc_township_tanai" model="nrc.township">
             <field name="name">(တနန) တနိုင်း</field>
             <field name="code">တနန</field>
-            <field name="state_code">1</field>
+            <field name="state_code">၁</field>
         </record>
         <record id="nrc_township_waimaw" model="nrc.township">
             <field name="name">(ဝမန) ဝင်းမော်</field>
             <field name="code">ဝမန</field>
-            <field name="state_code">1</field>
+            <field name="state_code">၁</field>
         </record>
         <record id="nrc_township_kamane" model="nrc.township">
             <field name="name">(ကမတ) ကာမိုင်း</field>
             <field name="code">ကမတ</field>
-            <field name="state_code">1</field>
+            <field name="state_code">၁</field>
         </record>
         <record id="nrc_township_kanpaikti" model="nrc.township">
             <field name="name">(ကပတ) ကန်ပိုက်တီ</field>
             <field name="code">ကပတ</field>
-            <field name="state_code">1</field>
+            <field name="state_code">၁</field>
         </record>
         <record id="nrc_township_mohla" model="nrc.township">
             <field name="name">(မလန) မြို့လှ</field>
             <field name="code">မလန</field>
-            <field name="state_code">1</field>
+            <field name="state_code">၁</field>
         </record>
         <record id="nrc_township_panandeng" model="nrc.township">
             <field name="name">(ပနဒ) ပန်နန်းဒင်</field>
             <field name="code">ပနဒ</field>
-            <field name="state_code">1</field>
+            <field name="state_code">၁</field>
         </record>
         <record id="nrc_township_panwa" model="nrc.township">
             <field name="name">(ပဝန) ပန်ဝါ</field>
             <field name="code">ပဝန</field>
-            <field name="state_code">1</field>
+            <field name="state_code">၁</field>
         </record>
         <record id="nrc_township_sadone" model="nrc.township">
             <field name="name">(ဆဒန) ဆဒုံး</field>
             <field name="code">ဆဒန</field>
-            <field name="state_code">1</field>
+            <field name="state_code">၁</field>
         </record>
         <record id="nrc_township_shinbwayyan" model="nrc.township">
             <field name="name">(ရဘယ) ရှင်ဘွေယန်</field>
             <field name="code">ရဘယ</field>
-            <field name="state_code">1</field>
+            <field name="state_code">၁</field>
         </record>
 
         <!-- State Code 2 (Kayah) -->
         <record id="nrc_township_bawlakhe" model="nrc.township">
             <field name="name">(ဘလခ) ဘော်လခဲ</field>
             <field name="code">ဘလခ</field>
-            <field name="state_code">2</field>
+            <field name="state_code">၂</field>
         </record>
         <record id="nrc_township_dimawso" model="nrc.township">
             <field name="name">(ဒမဆ) ဒီမောဆိုး</field>
             <field name="code">ဒမဆ</field>
-            <field name="state_code">2</field>
+            <field name="state_code">၂</field>
         </record>
         <record id="nrc_township_loikaw" model="nrc.township">
             <field name="name">(လကန) လွိုင်ကော်</field>
             <field name="code">လကန</field>
-            <field name="state_code">2</field>
+            <field name="state_code">၂</field>
         </record>
         <record id="nrc_township_maese" model="nrc.township">
             <field name="name">(မဆန) မယ်ဆည်နန်</field>
             <field name="code">မဆန</field>
-            <field name="state_code">2</field>
+            <field name="state_code">၂</field>
         </record>
         <record id="nrc_township_parsaung" model="nrc.township">
             <field name="name">(ဖဆန) ဖားဆောင်း</field>
             <field name="code">ဖဆန</field>
-            <field name="state_code">2</field>
+            <field name="state_code">၂</field>
         </record>
         <record id="nrc_township_hpruso" model="nrc.township">
             <field name="name">(ဖရဆ) ဖရူးဆိုး</field>
             <field name="code">ဖရဆ</field>
-            <field name="state_code">2</field>
+            <field name="state_code">၂</field>
         </record>
         <record id="nrc_township_shadaw" model="nrc.township">
             <field name="name">(ရတန) ရှားတော်</field>
             <field name="code">ရတန</field>
-            <field name="state_code">2</field>
+            <field name="state_code">၂</field>
         </record>
         <record id="nrc_township_maese_alt" model="nrc.township">
             <field name="name">(မစန) မယ်စဲ့</field>
             <field name="code">မစန</field>
-            <field name="state_code">2</field>
+            <field name="state_code">၂</field>
         </record>
         <record id="nrc_township_ywasith" model="nrc.township">
             <field name="name">(ရသန) ရွာသစ်</field>
             <field name="code">ရသန</field>
-            <field name="state_code">2</field>
+            <field name="state_code">၂</field>
         </record>
 
         <!-- State Code 3 (Kayin) -->
         <record id="nrc_township_hlaingbwe" model="nrc.township">
             <field name="name">(လဘန) လှိုင်းဘွဲ့</field>
             <field name="code">လဘန</field>
-            <field name="state_code">3</field>
+            <field name="state_code">၃</field>
         </record>
         <record id="nrc_township_kawkareik" model="nrc.township">
             <field name="name">(ကကရ) ကော့ကရိတ်</field>
             <field name="code">ကကရ</field>
-            <field name="state_code">3</field>
+            <field name="state_code">၃</field>
         </record>
         <record id="nrc_township_kyainseikgyi" model="nrc.township">
             <field name="name">(ကဆက) ကြာအင်းဆိပ်ကြီး</field>
             <field name="code">ကဆက</field>
-            <field name="state_code">3</field>
+            <field name="state_code">၃</field>
         </record>
         <record id="nrc_township_kyaungdon" model="nrc.township">
             <field name="name">(ကဒန) ကျုံဒိုး</field>
             <field name="code">ကဒန</field>
-            <field name="state_code">3</field>
+            <field name="state_code">၃</field>
         </record>
         <record id="nrc_township_myawaddy" model="nrc.township">
             <field name="name">(မဝတ) မြဝတီ</field>
             <field name="code">မဝတ</field>
-            <field name="state_code">3</field>
+            <field name="state_code">၃</field>
         </record>
         <record id="nrc_township_hpa_an" model="nrc.township">
             <field name="name">(ဖအန) ဖားအံ</field>
             <field name="code">ဖအန</field>
-            <field name="state_code">3</field>
+            <field name="state_code">၃</field>
         </record>
         <record id="nrc_township_ba_an" model="nrc.township">
             <field name="name">(ဘအန) ဘားအံ</field>
             <field name="code">ဘအန</field>
-            <field name="state_code">3</field>
+            <field name="state_code">၃</field>
         </record>
         <record id="nrc_township_pyapon" model="nrc.township">
             <field name="name">(ဖပန) ဖျာပွန်</field>
             <field name="code">ဖပန</field>
-            <field name="state_code">3</field>
+            <field name="state_code">၃</field>
         </record>
         <record id="nrc_township_thandaung" model="nrc.township">
             <field name="name">(သတန) သံတောင်</field>
             <field name="code">သတန</field>
-            <field name="state_code">3</field>
+            <field name="state_code">၃</field>
         </record>
         <record id="nrc_township_bawgali" model="nrc.township">
             <field name="name">(ဘဂလ) ဘောဂလိ</field>
             <field name="code">ဘဂလ</field>
-            <field name="state_code">3</field>
+            <field name="state_code">၃</field>
         </record>
         <record id="nrc_township_bhuthidaung" model="nrc.township">
             <field name="name">(ဘသဆ) ဘုရားသုံးဆူ</field>
             <field name="code">ဘသဆ</field>
-            <field name="state_code">3</field>
+            <field name="state_code">၃</field>
         </record>
         <record id="nrc_township_kammaung" model="nrc.township">
             <field name="name">(ကမမ) ကမမောင်း</field>
             <field name="code">ကမမ</field>
-            <field name="state_code">3</field>
+            <field name="state_code">၃</field>
         </record>
         <record id="nrc_township_lethok" model="nrc.township">
             <field name="name">(လသန) လိပ်သို</field>
             <field name="code">လသန</field>
-            <field name="state_code">3</field>
+            <field name="state_code">၃</field>
         </record>
         <record id="nrc_township_sukali" model="nrc.township">
             <field name="name">(စကလ) စုကလိ</field>
             <field name="code">စကလ</field>
-            <field name="state_code">3</field>
+            <field name="state_code">၃</field>
         </record>
         <record id="nrc_township_thantaunggyi" model="nrc.township">
             <field name="name">(သတက) သံတောင်ကြီး</field>
             <field name="code">သတက</field>
-            <field name="state_code">3</field>
+            <field name="state_code">၃</field>
         </record>
         <record id="nrc_township_wa_le_myaing" model="nrc.township">
             <field name="name">(ဝလမ) ဝေါလေမြိုင်</field>
             <field name="code">ဝလမ</field>
-            <field name="state_code">3</field>
+            <field name="state_code">၃</field>
         </record>
         <record id="nrc_township_shan_ywathit" model="nrc.township">
             <field name="name">(ရရသ) ရှမ်းရွာသစ်</field>
             <field name="code">ရရသ</field>
-            <field name="state_code">3</field>
+            <field name="state_code">၃</field>
         </record>
 
         <!-- State Code 4 (Chin) -->
         <record id="nrc_township_hakha" model="nrc.township">
             <field name="name">(ဟခန) ဟားခါး</field>
             <field name="code">ဟခန</field>
-            <field name="state_code">4</field>
+            <field name="state_code">၄</field>
         </record>
         <record id="nrc_township_thantalan" model="nrc.township">
             <field name="name">(ထတလ) ထန်တလန်</field>
             <field name="code">ထတလ</field>
-            <field name="state_code">4</field>
+            <field name="state_code">၄</field>
         </record>
         <record id="nrc_township_kanpetlet" model="nrc.township">
             <field name="name">(ကပလ) ကန်ပက်လက်</field>
             <field name="code">ကပလ</field>
-            <field name="state_code">4</field>
+            <field name="state_code">၄</field>
         </record>
         <record id="nrc_township_matupi" model="nrc.township">
             <field name="name">(မတပ) မတူပီ</field>
             <field name="code">မတပ</field>
-            <field name="state_code">4</field>
+            <field name="state_code">၄</field>
         </record>
         <record id="nrc_township_mindat" model="nrc.township">
             <field name="name">(မတန) မင်းတပ်</field>
             <field name="code">မတန</field>
-            <field name="state_code">4</field>
+            <field name="state_code">၄</field>
         </record>
         <record id="nrc_township_falam" model="nrc.township">
             <field name="name">(ဖလန) ဖလမ်း</field>
             <field name="code">ဖလန</field>
-            <field name="state_code">4</field>
+            <field name="state_code">၄</field>
         </record>
         <record id="nrc_township_paletwa" model="nrc.township">
             <field name="name">(ပလဝ) ပလက်ဝ</field>
             <field name="code">ပလဝ</field>
-            <field name="state_code">4</field>
+            <field name="state_code">၄</field>
         </record>
         <record id="nrc_township_tedim" model="nrc.township">
             <field name="name">(တတန) တီးတိန်</field>
             <field name="code">တတန</field>
-            <field name="state_code">4</field>
+            <field name="state_code">၄</field>
         </record>
         <record id="nrc_township_tonzang" model="nrc.township">
             <field name="name">(တဇန) တွန်းဇံ</field>
             <field name="code">တဇန</field>
-            <field name="state_code">4</field>
+            <field name="state_code">၄</field>
         </record>
         <record id="nrc_township_kyikhar" model="nrc.township">
             <field name="name">(ကခန) ကျီခါး</field>
             <field name="code">ကခန</field>
-            <field name="state_code">4</field>
+            <field name="state_code">၄</field>
         </record>
         <record id="nrc_township_sami" model="nrc.township">
             <field name="name">(ဆမန) ဆမီး</field>
             <field name="code">ဆမန</field>
-            <field name="state_code">4</field>
+            <field name="state_code">၄</field>
         </record>
         <record id="nrc_township_rikhawdawr" model="nrc.township">
             <field name="name">(ရခဒ) ရိဒ်ခေါဒါရ်</field>
             <field name="code">ရခဒ</field>
-            <field name="state_code">4</field>
+            <field name="state_code">၄</field>
         </record>
         <record id="nrc_township_yezwa" model="nrc.township">
             <field name="name">(ရဇန) ရေဇွာ</field>
             <field name="code">ရဇန</field>
-            <field name="state_code">4</field>
+            <field name="state_code">၄</field>
         </record>
 
         <!-- State Code 5 (Sagaing) -->
         <record id="nrc_township_ayar_yar_taw" model="nrc.township">
             <field name="name">(အရတ) အရာတော်</field>
             <field name="code">အရတ</field>
-            <field name="state_code">5</field>
+            <field name="state_code">၅</field>
         </record>
         <record id="nrc_township_banmauk" model="nrc.township">
             <field name="name">(ဗမန) ဗန်းမောက်</field>
             <field name="code">ဗမန</field>
-            <field name="state_code">5</field>
+            <field name="state_code">၅</field>
         </record>
         <record id="nrc_township_butalin" model="nrc.township">
             <field name="name">(ဘတလ) ဘုတလင်</field>
             <field name="code">ဘတလ</field>
-            <field name="state_code">5</field>
+            <field name="state_code">၅</field>
         </record>
         <record id="nrc_township_chaung_oo" model="nrc.township">
             <field name="name">(ခဥန) ချောင်းဦး</field>
             <field name="code">ခဥန</field>
-            <field name="state_code">5</field>
+            <field name="state_code">၅</field>
         </record>
         <record id="nrc_township_depeyin" model="nrc.township">
             <field name="name">(ဒပယ) ဒီပဲယင်း</field>
             <field name="code">ဒပယ</field>
-            <field name="state_code">5</field>
+            <field name="state_code">၅</field>
         </record>
         <record id="nrc_township_homalin" model="nrc.township">
             <field name="name">(ဟမလ) ဟုမ္မလင်း</field>
             <field name="code">ဟမလ</field>
-            <field name="state_code">5</field>
+            <field name="state_code">၅</field>
         </record>
         <record id="nrc_township_htichaing" model="nrc.township">
             <field name="name">(ထခန) ထီးချိုင့်</field>
             <field name="code">ထခန</field>
-            <field name="state_code">5</field>
+            <field name="state_code">၅</field>
         </record>
         <record id="nrc_township_inndaw" model="nrc.township">
             <field name="name">(အတန) အင်းတော်</field>
             <field name="code">အတန</field>
-            <field name="state_code">5</field>
+            <field name="state_code">၅</field>
         </record>
         <record id="nrc_township_kani" model="nrc.township">
             <field name="name">(ကနန) ကနီ</field>
             <field name="code">ကနန</field>
-            <field name="state_code">5</field>
+            <field name="state_code">၅</field>
         </record>
         <record id="nrc_township_katha" model="nrc.township">
             <field name="name">(ကသန) ကသာ</field>
             <field name="code">ကသန</field>
-            <field name="state_code">5</field>
+            <field name="state_code">၅</field>
         </record>
         <record id="nrc_township_kalay" model="nrc.township">
             <field name="name">(ကလထ) ကလေး</field>
             <field name="code">ကလထ</field>
-            <field name="state_code">5</field>
+            <field name="state_code">၅</field>
         </record>
         <record id="nrc_township_kalewa" model="nrc.township">
             <field name="name">(ကလဝ) ကလေးဝ</field>
             <field name="code">ကလဝ</field>
-            <field name="state_code">5</field>
+            <field name="state_code">၅</field>
         </record>
         <record id="nrc_township_kantbalu" model="nrc.township">
             <field name="name">(ကဘန) ကန့်ဘလူ</field>
             <field name="code">ကဘန</field>
-            <field name="state_code">5</field>
+            <field name="state_code">၅</field>
         </record>
         <record id="nrc_township_kawlin" model="nrc.township">
             <field name="name">(ကလတ) ကောလင်း</field>
             <field name="code">ကလတ</field>
-            <field name="state_code">5</field>
+            <field name="state_code">၅</field>
         </record>
         <record id="nrc_township_khantee" model="nrc.township">
             <field name="name">(ခတန) ခန္တီး</field>
             <field name="code">ခတန</field>
-            <field name="state_code">5</field>
+            <field name="state_code">၅</field>
         </record>
         <record id="nrc_township_khin_oo" model="nrc.township">
             <field name="name">(ခဥတ) ခင်ဦး</field>
             <field name="code">ခဥတ</field>
-            <field name="state_code">5</field>
+            <field name="state_code">၅</field>
         </record>
         <record id="nrc_township_kyunhla" model="nrc.township">
             <field name="name">(ကလန) ကျွန်းလှ</field>
             <field name="code">ကလန</field>
-            <field name="state_code">5</field>
+            <field name="state_code">၅</field>
         </record>
         <record id="nrc_township_mawlaik" model="nrc.township">
             <field name="name">(မလန) မော်လိုက်</field>
             <field name="code">မလန</field>
-            <field name="state_code">5</field>
+            <field name="state_code">၅</field>
         </record>
         <record id="nrc_township_minkin" model="nrc.township">
             <field name="name">(မကန) မင်းကင်း</field>
             <field name="code">မကန</field>
-            <field name="state_code">5</field>
+            <field name="state_code">၅</field>
         </record>
         <record id="nrc_township_monywa" model="nrc.township">
             <field name="name">(မရန) မုံရွာ</field>
             <field name="code">မရန</field>
-            <field name="state_code">5</field>
+            <field name="state_code">၅</field>
         </record>
         <record id="nrc_township_myinmu" model="nrc.township">
             <field name="name">(မမန) မြောင်</field>
             <field name="code">မမန</field>
-            <field name="state_code">5</field>
+            <field name="state_code">၅</field>
         </record>
         <record id="nrc_township_nanyun" model="nrc.township">
             <field name="name">(နယန) နန်းယွန်း</field>
             <field name="code">နယန</field>
-            <field name="state_code">5</field>
+            <field name="state_code">၅</field>
         </record>
         <record id="nrc_township_ngazun" model="nrc.township">
             <field name="name">(ငဇန) ငါးန်ဇွန်</field>
             <field name="code">ငဇန</field>
-            <field name="state_code">5</field>
+            <field name="state_code">၅</field>
         </record>
         <record id="nrc_township_pale" model="nrc.township">
             <field name="name">(ပလန) ပုလဲ</field>
             <field name="code">ပလန</field>
-            <field name="state_code">5</field>
+            <field name="state_code">၅</field>
         </record>
         <record id="nrc_township_paungbyin" model="nrc.township">
             <field name="name">(ဖပန) ဖောင်ပျင်း</field>
             <field name="code">ဖပန</field>
-            <field name="state_code">5</field>
+            <field name="state_code">၅</field>
         </record>
         <record id="nrc_township_pyin_le_bu" model="nrc.township">
             <field name="name">(ပလဘ) ပင်လယ်ဘူး</field>
             <field name="code">ပလဘ</field>
-            <field name="state_code">5</field>
+            <field name="state_code">၅</field>
         </record>
         <record id="nrc_township_sagaing" model="nrc.township">
             <field name="name">(စကန) စစ်ကိုင်း</field>
             <field name="code">စကန</field>
-            <field name="state_code">5</field>
+            <field name="state_code">၅</field>
         </record>
         <record id="nrc_township_salin_gyi" model="nrc.township">
             <field name="name">(ဆလက) ဆားလင်းကြီး</field>
             <field name="code">ဆလက</field>
-            <field name="state_code">5</field>
+            <field name="state_code">၅</field>
         </record>
         <record id="nrc_township_shwebo" model="nrc.township">
             <field name="name">(ရဘန) ရွှေဘို</field>
             <field name="code">ရဘန</field>
-            <field name="state_code">5</field>
+            <field name="state_code">၅</field>
         </record>
         <record id="nrc_township_tamu" model="nrc.township">
             <field name="name">(တမန) တမူး</field>
             <field name="code">တမန</field>
-            <field name="state_code">5</field>
+            <field name="state_code">၅</field>
         </record>
         <record id="nrc_township_tantse" model="nrc.township">
             <field name="name">(တဆန) တန့်ဆည်</field>
             <field name="code">တဆန</field>
-            <field name="state_code">5</field>
+            <field name="state_code">၅</field>
         </record>
         <record id="nrc_township_wetlet" model="nrc.township">
             <field name="name">(ဝလန) ဝက်လက်</field>
             <field name="code">ဝလန</field>
-            <field name="state_code">5</field>
+            <field name="state_code">၅</field>
         </record>
         <record id="nrc_township_wuntho" model="nrc.township">
             <field name="name">(ဝသန) ဝမ်းသို</field>
             <field name="code">ဝသန</field>
-            <field name="state_code">5</field>
+            <field name="state_code">၅</field>
         </record>
         <record id="nrc_township_ye_u" model="nrc.township">
             <field name="name">(ရဥန) ရေဦး</field>
             <field name="code">ရဥန</field>
-            <field name="state_code">5</field>
+            <field name="state_code">၅</field>
         </record>
         <record id="nrc_township_yinmarbin" model="nrc.township">
             <field name="name">(ယမပ) ယင်းမာပင်</field>
             <field name="code">ယမပ</field>
-            <field name="state_code">5</field>
+            <field name="state_code">၅</field>
         </record>
         <record id="nrc_township_ywar_thit_gyi" model="nrc.township">
             <field name="name">(ရသက) ရွာသစ်ကြီး</field>
             <field name="code">ရသက</field>
-            <field name="state_code">5</field>
+            <field name="state_code">၅</field>
         </record>
         <record id="nrc_township_donhee" model="nrc.township">
             <field name="name">(ဒဟန) ဒုံဟီး</field>
             <field name="code">ဒဟန</field>
-            <field name="state_code">5</field>
+            <field name="state_code">၅</field>
         </record>
         <record id="nrc_township_swammarar" model="nrc.township">
             <field name="name">(ဆမရ) ဆွမ္မရာ</field>
             <field name="code">ဆမရ</field>
-            <field name="state_code">5</field>
+            <field name="state_code">၅</field>
         </record>
         <record id="nrc_township_tan_pa_khwe" model="nrc.township">
             <field name="name">(ထပခ) ထန်ပါခွေ</field>
             <field name="code">ထပခ</field>
-            <field name="state_code">5</field>
+            <field name="state_code">၅</field>
         </record>
         <record id="nrc_township_kyaukmyoung" model="nrc.township">
             <field name="name">(ကမန) ကျောက်မြောင်း</field>
             <field name="code">ကမန</field>
-            <field name="state_code">5</field>
+            <field name="state_code">၅</field>
         </record>
         <record id="nrc_township_kanpat" model="nrc.township">
             <field name="name">(ခပန) ခမ်းပတ်</field>
             <field name="code">ခပန</field>
-            <field name="state_code">5</field>
+            <field name="state_code">၅</field>
         </record>
         <record id="nrc_township_lahai" model="nrc.township">
             <field name="name">(လဟန) လဟယ်</field>
             <field name="code">လဟန</field>
-            <field name="state_code">5</field>
+            <field name="state_code">၅</field>
         </record>
         <record id="nrc_township_layshi" model="nrc.township">
             <field name="name">(လရန) လေရှီး</field>
             <field name="code">လရန</field>
-            <field name="state_code">5</field>
+            <field name="state_code">၅</field>
         </record>
         <record id="nrc_township_myinmu2" model="nrc.township">
             <field name="name">(မမတ) မြင်းမူ</field>
             <field name="code">မမတ</field>
-            <field name="state_code">5</field>
+            <field name="state_code">၅</field>
         </record>
         <record id="nrc_township_mopine_lut" model="nrc.township">
             <field name="name">(မပလ) မိုပိုင်းလွတ်</field>
             <field name="code">မပလ</field>
-            <field name="state_code">5</field>
+            <field name="state_code">၅</field>
         </record>
         <record id="nrc_township_myothit" model="nrc.township">
             <field name="name">(မသန) မြို့သစ်</field>
             <field name="code">မသန</field>
-            <field name="state_code">5</field>
+            <field name="state_code">၅</field>
         </record>
         <record id="nrc_township_pan_saung" model="nrc.township">
             <field name="name">(ပဆန) ပန်ဆောင်</field>
             <field name="code">ပဆန</field>
-            <field name="state_code">5</field>
+            <field name="state_code">၅</field>
         </record>
 
         <!-- State Code 6 (Tanintharyi) -->
         <record id="nrc_township_bokpyin" model="nrc.township">
             <field name="name">(ဘပန) ဘုတ်ပြင်း</field>
             <field name="code">ဘပန</field>
-            <field name="state_code">6</field>
+            <field name="state_code">၆</field>
         </record>
         <record id="nrc_township_dawei" model="nrc.township">
             <field name="name">(ထဝန) ထားဝယ်</field>
             <field name="code">ထဝန</field>
-            <field name="state_code">6</field>
+            <field name="state_code">၆</field>
         </record>
         <record id="nrc_township_kawthaung" model="nrc.township">
             <field name="name">(ကသန) ကော့သောင်း</field>
             <field name="code">ကသန</field>
-            <field name="state_code">6</field>
+            <field name="state_code">၆</field>
         </record>
         <record id="nrc_township_kyunsu" model="nrc.township">
             <field name="name">(ကစန) ကျွန်းစု</field>
             <field name="code">ကစန</field>
-            <field name="state_code">6</field>
+            <field name="state_code">၆</field>
         </record>
         <record id="nrc_township_launglon" model="nrc.township">
             <field name="name">(လလန) လောင်းလုံ</field>
             <field name="code">လလန</field>
-            <field name="state_code">6</field>
+            <field name="state_code">၆</field>
         </record>
         <record id="nrc_township_myeik" model="nrc.township">
             <field name="name">(မမန) မြိတ်</field>
             <field name="code">မမန</field>
-            <field name="state_code">6</field>
+            <field name="state_code">၆</field>
         </record>
         <record id="nrc_township_myeik_east" model="nrc.township">
             <field name="name">(မအရ) မြိတ်အရှေ့</field>
             <field name="code">မအရ</field>
-            <field name="state_code">6</field>
+            <field name="state_code">၆</field>
         </record>
         <record id="nrc_township_nga_ye_kaung" model="nrc.township">
             <field name="name">(ငရက) ငရုတ်ကောင်း</field>
             <field name="code">ငရက</field>
-            <field name="state_code">6</field>
+            <field name="state_code">၆</field>
         </record>
         <record id="nrc_township_palaw" model="nrc.township">
             <field name="name">(ပလန) ပုလော</field>
             <field name="code">ပလန</field>
-            <field name="state_code">6</field>
+            <field name="state_code">၆</field>
         </record>
         <record id="nrc_township_tanintharyi" model="nrc.township">
             <field name="name">(တနသ) တနသ်ာရီ</field>
             <field name="code">တနသ</field>
-            <field name="state_code">6</field>
+            <field name="state_code">၆</field>
         </record>
         <record id="nrc_township_tanintharyi2" model="nrc.township">
             <field name="name">(တသရ) တနသ်ာရီ</field>
             <field name="code">တသရ</field>
-            <field name="state_code">6</field>
+            <field name="state_code">၆</field>
         </record>
         <record id="nrc_township_thayet_chaung" model="nrc.township">
             <field name="name">(သရခ) သရက်ချောင်း</field>
             <field name="code">သရခ</field>
-            <field name="state_code">6</field>
+            <field name="state_code">၆</field>
         </record>
         <record id="nrc_township_yebyu" model="nrc.township">
             <field name="name">(ရဖန) ရေဖြူ</field>
             <field name="code">ရဖန</field>
-            <field name="state_code">6</field>
+            <field name="state_code">၆</field>
         </record>
         <record id="nrc_township_khemaw_kyi" model="nrc.township">
             <field name="name">ခမက (ခမောက်ကြီး)</field>
             <field name="code">ခမက</field>
-            <field name="state_code">6</field>
+            <field name="state_code">၆</field>
         </record>
         <record id="nrc_township_kalein_aung" model="nrc.township">
             <field name="name">(ကလအ) ကလိန်အောင်</field>
             <field name="code">ကလအ</field>
-            <field name="state_code">6</field>
+            <field name="state_code">၆</field>
         </record>
         <record id="nrc_township_karathuri" model="nrc.township">
             <field name="name">(ကရရ) ကရသူရိ</field>
             <field name="code">ကရရ</field>
-            <field name="state_code">6</field>
+            <field name="state_code">၆</field>
         </record>
         <record id="nrc_township_myeik_west" model="nrc.township">
             <field name="name">(မအန) မြိတ်အနောက်</field>
             <field name="code">မအန</field>
-            <field name="state_code">6</field>
+            <field name="state_code">၆</field>
         </record>
         <record id="nrc_township_pyigyimandaing" model="nrc.township">
             <field name="name">(ပကမ) ပြည်ကြီးမဏ္ဍိုင်</field>
             <field name="code">ပကမ</field>
-            <field name="state_code">6</field>
+            <field name="state_code">၆</field>
         </record>
         <record id="nrc_township_palauk" model="nrc.township">
             <field name="name">(ပလတ) ပလောက်</field>
             <field name="code">ပလတ</field>
-            <field name="state_code">6</field>
+            <field name="state_code">၆</field>
         </record>
 
         <!-- State Code 7 (Bago) -->
         <record id="nrc_township_aukphoe" model="nrc.township">
             <field name="name">(အဖန) အုတ်ဖို</field>
             <field name="code">အဖန</field>
-            <field name="state_code">7</field>
+            <field name="state_code">၇</field>
         </record>
         <record id="nrc_township_aukphyat" model="nrc.township">
             <field name="name">(အဖန) အုတ်ဖြတ်</field>
             <field name="code">အဖန</field>
-            <field name="state_code">7</field>
+            <field name="state_code">၇</field>
         </record>
         <record id="nrc_township_aukhtwin" model="nrc.township">
             <field name="name">(အတန) အုတ်တွင်း</field>
             <field name="code">အတန</field>
-            <field name="state_code">7</field>
+            <field name="state_code">၇</field>
         </record>
         <record id="nrc_township_daiku" model="nrc.township">
             <field name="name">(ဒဥန) ဒိုက်ဦး</field>
             <field name="code">ဒဥန</field>
-            <field name="state_code">7</field>
+            <field name="state_code">၇</field>
         </record>
         <record id="nrc_township_thanatpin" model="nrc.township">
             <field name="name">(ထတပ) ထန်းတပင်</field>
             <field name="code">ထတပ</field>
-            <field name="state_code">7</field>
+            <field name="state_code">၇</field>
         </record>
         <record id="nrc_township_ketumadi" model="nrc.township">
             <field name="name">(ကတတ) ကေတုမတီ</field>
             <field name="code">ကတတ</field>
-            <field name="state_code">7</field>
+            <field name="state_code">၇</field>
         </record>
         <record id="nrc_township_kyauktaga" model="nrc.township">
             <field name="name">(ကပက) ကြို့ပင်ကောက်</field>
             <field name="code">ကပက</field>
-            <field name="state_code">7</field>
+            <field name="state_code">၇</field>
         </record>
         <record id="nrc_township_kyaukkyi" model="nrc.township">
             <field name="name">(ကကန) ကျောက်ကြီး</field>
             <field name="code">ကကန</field>
-            <field name="state_code">7</field>
+            <field name="state_code">၇</field>
         </record>
         <record id="nrc_township_kyauktan_kha" model="nrc.township">
             <field name="name">(ကတခ) ကျောက်တံခါး</field>
             <field name="code">ကတခ</field>
-            <field name="state_code">7</field>
+            <field name="state_code">၇</field>
         </record>
         <record id="nrc_township_kyaukkone" model="nrc.township">
             <field name="name">(ကကန) ကျောက်ကုန်း</field>
             <field name="code">ကကန</field>
-            <field name="state_code">7</field>
+            <field name="state_code">၇</field>
         </record>
         <record id="nrc_township_madauk" model="nrc.township">
             <field name="name">(မဒန) မဒေါက်</field>
             <field name="code">မဒန</field>
-            <field name="state_code">7</field>
+            <field name="state_code">၇</field>
         </record>
         <record id="nrc_township_minhla" model="nrc.township">
             <field name="name">(မလန) မင်းလှ</field>
             <field name="code">မလန</field>
-            <field name="state_code">7</field>
+            <field name="state_code">၇</field>
         </record>
         <record id="nrc_township_moenyio" model="nrc.township">
             <field name="name">(မညန) မိုးညို</field>
             <field name="code">မညန</field>
-            <field name="state_code">7</field>
+            <field name="state_code">၇</field>
         </record>
         <record id="nrc_township_nattalin" model="nrc.township">
             <field name="name">(နတလ) နတ်တလင်း</field>
             <field name="code">နတလ</field>
-            <field name="state_code">7</field>
+            <field name="state_code">၇</field>
         </record>
         <record id="nrc_township_ngaunglepin" model="nrc.township">
             <field name="name">(ညလပ) ညောင်လေးပင်</field>
             <field name="code">ညလပ</field>
-            <field name="state_code">7</field>
+            <field name="state_code">၇</field>
         </record>
         <record id="nrc_township_pa_nwe_kone" model="nrc.township">
             <field name="name">(ပနက) ပဲနွယ်ကုန်း</field>
             <field name="code">ပနက</field>
-            <field name="state_code">7</field>
+            <field name="state_code">၇</field>
         </record>
         <record id="nrc_township_pyay" model="nrc.township">
             <field name="name">(ပခန) ပဲခူး</field>
             <field name="code">ပခန</field>
-            <field name="state_code">7</field>
+            <field name="state_code">၇</field>
         </record>
         <record id="nrc_township_pantanaw" model="nrc.township">
             <field name="name">(ပတန) ပန်တောင်း</field>
             <field name="code">ပတန</field>
-            <field name="state_code">7</field>
+            <field name="state_code">၇</field>
         </record>
         <record id="nrc_township_paungde" model="nrc.township">
             <field name="name">(ပခန) ပေါက်ခေါင်း</field>
             <field name="code">ပခန</field>
-            <field name="state_code">7</field>
+            <field name="state_code">၇</field>
         </record>
         <record id="nrc_township_paungte" model="nrc.township">
             <field name="name">(ပတတ) ပေါင်းတည်</field>
             <field name="code">ပတတ</field>
-            <field name="state_code">7</field>
+            <field name="state_code">၇</field>
         </record>
         <record id="nrc_township_pyuntaza" model="nrc.township">
             <field name="name">(ဖမန) ဖြူး</field>
             <field name="code">ဖမန</field>
-            <field name="state_code">7</field>
+            <field name="state_code">၇</field>
         </record>
         <record id="nrc_township_pyay" model="nrc.township">
             <field name="name">(ပမန) ပြည်</field>
             <field name="code">ပမန</field>
-            <field name="state_code">7</field>
+            <field name="state_code">၇</field>
         </record>
         <record id="nrc_township_pyun_ta_sa" model="nrc.township">
             <field name="name">(ပတစ) ပြွန်တဆာ</field>
             <field name="code">ပတစ</field>
-            <field name="state_code">7</field>
+            <field name="state_code">၇</field>
         </record>
         <record id="nrc_township_shwekyin" model="nrc.township">
             <field name="name">(ရကန) ရွှေကျင်</field>
             <field name="code">ရကန</field>
-            <field name="state_code">7</field>
+            <field name="state_code">၇</field>
         </record>
         <record id="nrc_township_shwetaung" model="nrc.township">
             <field name="name">(ရတန) ရွှေတောင်</field>
             <field name="code">ရတန</field>
-            <field name="state_code">7</field>
+            <field name="state_code">၇</field>
         </record>
         <record id="nrc_township_taungngu" model="nrc.township">
             <field name="name">(တငန) တောင်ငူ</field>
             <field name="code">တငန</field>
-            <field name="state_code">7</field>
+            <field name="state_code">၇</field>
         </record>
         <record id="nrc_township_thanatpin2" model="nrc.township">
             <field name="name">(သနပ) သနပ်ပင်</field>
             <field name="code">သနပ</field>
-            <field name="state_code">7</field>
+            <field name="state_code">၇</field>
         </record>
         <record id="nrc_township_thekone" model="nrc.township">
             <field name="name">(သကန) သဲကုန်း</field>
             <field name="code">သကန</field>
-            <field name="state_code">7</field>
+            <field name="state_code">၇</field>
         </record>
         <record id="nrc_township_thayarwaddy" model="nrc.township">
             <field name="name">(သဝတ) သာယာဝတီ</field>
             <field name="code">သဝတ</field>
-            <field name="state_code">7</field>
+            <field name="state_code">၇</field>
         </record>
         <record id="nrc_township_thonse" model="nrc.township">
             <field name="name">(သဆန) သုံးဆယ်</field>
             <field name="code">သဆန</field>
-            <field name="state_code">7</field>
+            <field name="state_code">၇</field>
         </record>
         <record id="nrc_township_wao" model="nrc.township">
             <field name="name">(ဝမန) ဝေါ</field>
             <field name="code">ဝမန</field>
-            <field name="state_code">7</field>
+            <field name="state_code">၇</field>
         </record>
         <record id="nrc_township_yae_ta_shay" model="nrc.township">
             <field name="name">(ရတရ) ရေတာရှည်</field>
             <field name="code">ရတရ</field>
-            <field name="state_code">7</field>
+            <field name="state_code">၇</field>
         </record>
         <record id="nrc_township_zeegone" model="nrc.township">
             <field name="name">(ဇကန) ဇီးကုန်း</field>
             <field name="code">ဇကန</field>
-            <field name="state_code">7</field>
+            <field name="state_code">၇</field>
         </record>
         <record id="nrc_township_kawa" model="nrc.township">
             <field name="name">(ကဝန) ကဝ</field>
             <field name="code">ကဝန</field>
-            <field name="state_code">7</field>
+            <field name="state_code">၇</field>
         </record>
         <record id="nrc_township_le_panton" model="nrc.township">
             <field name="name">(လပတ) လက်ပံတန်း</field>
             <field name="code">လပတ</field>
-            <field name="state_code">7</field>
+            <field name="state_code">၇</field>
         </record>
         <record id="nrc_township_pyaungtalay" model="nrc.township">
             <field name="name">(ပတလ) ပေါင်းတလည်</field>
             <field name="code">ပတလ</field>
-            <field name="state_code">7</field>
+            <field name="state_code">၇</field>
         </record>
 
         <!-- State Code 8 (Magway) -->
         <record id="nrc_township_aunglan" model="nrc.township">
             <field name="name">(အလန) အောင်လံ</field>
             <field name="code">အလန</field>
-            <field name="state_code">8</field>
+            <field name="state_code">၈</field>
         </record>
         <record id="nrc_township_chauk" model="nrc.township">
             <field name="name">(ခမန) ချောက်</field>
             <field name="code">ခမန</field>
-            <field name="state_code">8</field>
+            <field name="state_code">၈</field>
         </record>
         <record id="nrc_township_gangaw" model="nrc.township">
             <field name="name">(ဂဂန) ဂန့်ဂေါ</field>
             <field name="code">ဂဂန</field>
-            <field name="state_code">8</field>
+            <field name="state_code">၈</field>
         </record>
         <record id="nrc_township_seikphyu" model="nrc.township">
             <field name="name">(ဆဖန) ဆိပ်ဖြူ</field>
             <field name="code">ဆဖန</field>
-            <field name="state_code">8</field>
+            <field name="state_code">၈</field>
         </record>
         <record id="nrc_township_sinpangwe" model="nrc.township">
             <field name="name">(ဆပဝ) ဆင်ပေါင်ဝဲ</field>
             <field name="code">ဆပဝ</field>
-            <field name="state_code">8</field>
+            <field name="state_code">၈</field>
         </record>
         <record id="nrc_township_htilin" model="nrc.township">
             <field name="name">(ထလန) ထီးလင်း</field>
             <field name="code">ထလန</field>
-            <field name="state_code">8</field>
+            <field name="state_code">၈</field>
         </record>
         <record id="nrc_township_kanma" model="nrc.township">
             <field name="name">(ကမန) ကံမ</field>
             <field name="code">ကမန</field>
-            <field name="state_code">8</field>
+            <field name="state_code">၈</field>
         </record>
         <record id="nrc_township_magway" model="nrc.township">
             <field name="name">(မကန) မကွေး</field>
             <field name="code">မကန</field>
-            <field name="state_code">8</field>
+            <field name="state_code">၈</field>
         </record>
         <record id="nrc_township_minbu" model="nrc.township">
             <field name="name">(မဘန) မင်းဘူး</field>
             <field name="code">မဘန</field>
-            <field name="state_code">8</field>
+            <field name="state_code">၈</field>
         </record>
         <record id="nrc_township_minhla" model="nrc.township">
             <field name="name">(မလန) မင်းလှ</field>
             <field name="code">မလန</field>
-            <field name="state_code">8</field>
+            <field name="state_code">၈</field>
         </record>
         <record id="nrc_township_mindon" model="nrc.township">
             <field name="name">(မတန) မင်းတုန်း</field>
             <field name="code">မတန</field>
-            <field name="state_code">8</field>
+            <field name="state_code">၈</field>
         </record>
         <record id="nrc_township_myin" model="nrc.township">
             <field name="name">(မမန) မြိုင်</field>
             <field name="code">မမန</field>
-            <field name="state_code">8</field>
+            <field name="state_code">၈</field>
         </record>
         <record id="nrc_township_myaytae" model="nrc.township">
             <field name="name">(မထန) မြေထဲ</field>
             <field name="code">မထန</field>
-            <field name="state_code">8</field>
+            <field name="state_code">၈</field>
         </record>
         <record id="nrc_township_myothit" model="nrc.township">
             <field name="name">(မသန) မြို့သစ်</field>
             <field name="code">မသန</field>
-            <field name="state_code">8</field>
+            <field name="state_code">၈</field>
         </record>
         <record id="nrc_township_natmauk" model="nrc.township">
             <field name="name">(နမန) နတ်မောက်</field>
             <field name="code">နမန</field>
-            <field name="state_code">8</field>
+            <field name="state_code">၈</field>
         </record>
         <record id="nrc_township_ngaphe" model="nrc.township">
             <field name="name">(ငဖန) ငါးဖယ်</field>
             <field name="code">ငဖန</field>
-            <field name="state_code">8</field>
+            <field name="state_code">၈</field>
         </record>
         <record id="nrc_township_pakokku" model="nrc.township">
             <field name="name">(ပခက) ပခုက္ကူ</field>
             <field name="code">ပခက</field>
-            <field name="state_code">8</field>
+            <field name="state_code">၈</field>
         </record>
         <record id="nrc_township_pauk" model="nrc.township">
             <field name="name">(ပမန) ပေါက်</field>
             <field name="code">ပမန</field>
-            <field name="state_code">8</field>
+            <field name="state_code">၈</field>
         </record>
         <record id="nrc_township_pwintbyu" model="nrc.township">
             <field name="name">(ပဖန) ပွင့်ဖြူ</field>
             <field name="code">ပဖန</field>
-            <field name="state_code">8</field>
+            <field name="state_code">၈</field>
         </record>
         <record id="nrc_township_salin" model="nrc.township">
             <field name="name">(စလန) စလင်း</field>
             <field name="code">စလန</field>
-            <field name="state_code">8</field>
+            <field name="state_code">၈</field>
         </record>
         <record id="nrc_township_setottara" model="nrc.township">
             <field name="name">(စတရ) စေတုတ္တရာ</field>
             <field name="code">စတရ</field>
-            <field name="state_code">8</field>
+            <field name="state_code">၈</field>
         </record>
         <record id="nrc_township_saku" model="nrc.township">
             <field name="name">(စကန) စကု</field>
             <field name="code">စကန</field>
-            <field name="state_code">8</field>
+            <field name="state_code">၈</field>
         </record>
         <record id="nrc_township_taungdwingyi" model="nrc.township">
             <field name="name">(တတက) တောင်တွင်းကြီး</field>
             <field name="code">တတက</field>
-            <field name="state_code">8</field>
+            <field name="state_code">၈</field>
         </record>
         <record id="nrc_township_thayet" model="nrc.township">
             <field name="name">(သရန) သရက်</field>
             <field name="code">သရန</field>
-            <field name="state_code">8</field>
+            <field name="state_code">၈</field>
         </record>
         <record id="nrc_township_saw" model="nrc.township">
             <field name="name">(ဆမန) ဆော</field>
             <field name="code">ဆမန</field>
-            <field name="state_code">8</field>
+            <field name="state_code">၈</field>
         </record>
         <record id="nrc_township_yenanchaung" model="nrc.township">
             <field name="name">(ရနခ) ရေနံချောင်း</field>
             <field name="code">ရနခ</field>
-            <field name="state_code">8</field>
+            <field name="state_code">၈</field>
         </record>
         <record id="nrc_township_yesakyo" model="nrc.township">
             <field name="name">(ရစက) ရေစကြို</field>
             <field name="code">ရစက</field>
-            <field name="state_code">8</field>
+            <field name="state_code">၈</field>
         </record>
         <record id="nrc_township_kyaukhtu" model="nrc.township">
             <field name="name">(ကထန) ကျောက်ထု</field>
             <field name="code">ကထန</field>
-            <field name="state_code">8</field>
+            <field name="state_code">၈</field>
         </record>
 
         <!-- State Code 9 (Mandalay) -->
         <record id="nrc_township_dakkinathiri" model="nrc.township">
             <field name="name">(ဒခသ) ဒက္ခိဏသီရိ</field>
             <field name="code">ဒခသ</field>
-            <field name="state_code">9</field>
+            <field name="state_code">၉</field>
         </record>
         <record id="nrc_township_lewe" model="nrc.township">
             <field name="name">(လဝန) လယ်ဝေး</field>
             <field name="code">လဝန</field>
-            <field name="state_code">9</field>
+            <field name="state_code">၉</field>
         </record>
         <record id="nrc_township_uttarathiri" model="nrc.township">
             <field name="name">(ဥတသ) ဥတ္တရသီရိ</field>
             <field name="code">ဥတသ</field>
-            <field name="state_code">9</field>
+            <field name="state_code">၉</field>
         </record>
         <record id="nrc_township_pobbathiri" model="nrc.township">
             <field name="name">(ပဗသ) ပုဗ္ဗသီရိ</field>
             <field name="code">ပဗသ</field>
-            <field name="state_code">9</field>
+            <field name="state_code">၉</field>
         </record>
         <record id="nrc_township_pyinmana" model="nrc.township">
             <field name="name">(ပမန) ပျဉ်းမနား</field>
             <field name="code">ပမန</field>
-            <field name="state_code">9</field>
+            <field name="state_code">၉</field>
         </record>
         <record id="nrc_township_tatkone" model="nrc.township">
             <field name="name">(တကန) တပ်ကုန်း</field>
             <field name="code">တကန</field>
-            <field name="state_code">9</field>
+            <field name="state_code">၉</field>
         </record>
         <record id="nrc_township_zabuthiri" model="nrc.township">
             <field name="name">(ဇဗသ) ဇမ္ဗူသီရိ</field>
             <field name="code">ဇဗသ</field>
-            <field name="state_code">9</field>
+            <field name="state_code">၉</field>
         </record>
         <record id="nrc_township_zayarthiri" model="nrc.township">
             <field name="name">(ဇယသ) ဇေယျာသီရိ</field>
             <field name="code">ဇယသ</field>
-            <field name="state_code">9</field>
+            <field name="state_code">၉</field>
         </record>
         <record id="nrc_township_amarapura" model="nrc.township">
             <field name="name">(အမရ) အမရပူရ</field>
             <field name="code">အမရ</field>
-            <field name="state_code">9</field>
+            <field name="state_code">၉</field>
         </record>
         <record id="nrc_township_amaythazan" model="nrc.township">
             <field name="name">(အမဇ) အောင်မြေသာဇံ</field>
             <field name="code">အမဇ</field>
-            <field name="state_code">9</field>
+            <field name="state_code">၉</field>
         </record>
         <record id="nrc_township_chanayethazan" model="nrc.township">
             <field name="name">(ခအစ) ချမ်းအေးသာစည်</field>
             <field name="code">ခအစ</field>
-            <field name="state_code">9</field>
+            <field name="state_code">၉</field>
         </record>
         <record id="nrc_township_chanmyathazi" model="nrc.township">
             <field name="name">(ခမစ) ချမ်းမြသာစည်</field>
             <field name="code">ခမစ</field>
-            <field name="state_code">9</field>
+            <field name="state_code">၉</field>
         </record>
         <record id="nrc_township_kyaukpadaung" model="nrc.township">
             <field name="name">(ကပတ) ကျောက်ပန်းတောင်း</field>
             <field name="code">ကပတ</field>
-            <field name="state_code">9</field>
+            <field name="state_code">၉</field>
         </record>
         <record id="nrc_township_kyaukse" model="nrc.township">
             <field name="name">(ကဆန) ကျောက်ဆည်</field>
             <field name="code">ကဆန</field>
-            <field name="state_code">9</field>
+            <field name="state_code">၉</field>
         </record>
         <record id="nrc_township_mahlaing" model="nrc.township">
             <field name="name">(မလန) မလှိုင်</field>
             <field name="code">မလန</field>
-            <field name="state_code">9</field>
+            <field name="state_code">၉</field>
         </record>
         <record id="nrc_township_mahar_aung_myay" model="nrc.township">
             <field name="name">(မဟမ) မဟာအောင်မြေ</field>
             <field name="code">မဟမ</field>
-            <field name="state_code">9</field>
+            <field name="state_code">၉</field>
         </record>
         <record id="nrc_township_mandine_maw" model="nrc.township">
             <field name="name">(မနမ) မန်းနောက်မြောက်</field>
             <field name="code">မနမ</field>
-            <field name="state_code">9</field>
+            <field name="state_code">၉</field>
         </record>
         <record id="nrc_township_mandine_taung" model="nrc.township">
             <field name="name">(မနတ) မန်းနောက်တောင်</field>
             <field name="code">မနတ</field>
-            <field name="state_code">9</field>
+            <field name="state_code">၉</field>
         </record>
         <record id="nrc_township_man_shay_maw" model="nrc.township">
             <field name="name">(မရမ) မန်းရှေ့မြောက်</field>
             <field name="code">မရမ</field>
-            <field name="state_code">9</field>
+            <field name="state_code">၉</field>
         </record>
         <record id="nrc_township_man_shay_taung" model="nrc.township">
             <field name="name">(မရတ) မန်းရှေ့တောင်</field>
             <field name="code">မရတ</field>
-            <field name="state_code">9</field>
+            <field name="state_code">၉</field>
         </record>
         <record id="nrc_township_mattara" model="nrc.township">
             <field name="name">(မတရ) မတ္တရာ</field>
             <field name="code">မတရ</field>
-            <field name="state_code">9</field>
+            <field name="state_code">၉</field>
         </record>
         <record id="nrc_township_meiktila" model="nrc.township">
             <field name="name">(မမန) မေမြို့</field>
             <field name="code">မမန</field>
-            <field name="state_code">9</field>
+            <field name="state_code">၉</field>
         </record>
         <record id="nrc_township_meiktila2" model="nrc.township">
             <field name="name">(မထလ) မိတ္ထီလာ</field>
             <field name="code">မထလ</field>
-            <field name="state_code">9</field>
+            <field name="state_code">၉</field>
         </record>
         <record id="nrc_township_mogok" model="nrc.township">
             <field name="name">(မကန) မိုးကုတ်</field>
             <field name="code">မကန</field>
-            <field name="state_code">9</field>
+            <field name="state_code">၉</field>
         </record>
         <record id="nrc_township_myingyan" model="nrc.township">
             <field name="name">(မခန) မြင်းခြံ</field>
             <field name="code">မခန</field>
-            <field name="state_code">9</field>
+            <field name="state_code">၉</field>
         </record>
         <record id="nrc_township_myittha" model="nrc.township">
             <field name="name">(မသန) မြစ်သား</field>
             <field name="code">မသန</field>
-            <field name="state_code">9</field>
+            <field name="state_code">၉</field>
         </record>
         <record id="nrc_township_nwarhtogyi" model="nrc.township">
             <field name="name">(နထက) နွားထိုးကြီး</field>
             <field name="code">နထက</field>
-            <field name="state_code">9</field>
+            <field name="state_code">၉</field>
         </record>
         <record id="nrc_township_ngathayauk" model="nrc.township">
             <field name="name">(ငသရ) ငါ့သရောက်</field>
             <field name="code">ငသရ</field>
-            <field name="state_code">9</field>
+            <field name="state_code">၉</field>
         </record>
         <record id="nrc_township_ngaung_u" model="nrc.township">
             <field name="name">(ညဥန) ညောင်ဦး</field>
             <field name="code">ညဥန</field>
-            <field name="state_code">9</field>
+            <field name="state_code">၉</field>
         </record>
         <record id="nrc_township_paleik" model="nrc.township">
             <field name="name">(ပလန) ပုလိပ်</field>
             <field name="code">ပလန</field>
-            <field name="state_code">9</field>
+            <field name="state_code">၉</field>
         </record>
         <record id="nrc_township_pothi_kyi" model="nrc.township">
             <field name="name">(ပသက) ပုသိမ်ကြီး</field>
             <field name="code">ပသက</field>
-            <field name="state_code">9</field>
+            <field name="state_code">၉</field>
         </record>
         <record id="nrc_township_pyawbwè" model="nrc.township">
             <field name="name">(ပဖန) ပျော်ဖွယ်</field>
             <field name="code">ပဖန</field>
-            <field name="state_code">9</field>
+            <field name="state_code">၉</field>
         </record>
         <record id="nrc_township_pyigyitagon" model="nrc.township">
             <field name="name">(ပကခ) ပြည်ကြီးတံခွန်</field>
             <field name="code">ပကခ</field>
-            <field name="state_code">9</field>
+            <field name="state_code">၉</field>
         </record>
         <record id="nrc_township_pyinu_lwin" model="nrc.township">
             <field name="name">(ပဥလ) ပြင်ဦးလွင်</field>
             <field name="code">ပဥလ</field>
-            <field name="state_code">9</field>
+            <field name="state_code">၉</field>
         </record>
         <record id="nrc_township_pyinmana2" model="nrc.township">
             <field name="name">(ပမန) ပျဉ်းမနား</field>
             <field name="code">ပမန</field>
-            <field name="state_code">9</field>
+            <field name="state_code">၉</field>
         </record>
         <record id="nrc_township_singu" model="nrc.township">
             <field name="name">(စကတ) စဉ့်ကိုင်</field>
             <field name="code">စကတ</field>
-            <field name="state_code">9</field>
+            <field name="state_code">၉</field>
         </record>
         <record id="nrc_township_singu2" model="nrc.township">
             <field name="name">(ဆကန) စဉ့်ကူး</field>
             <field name="code">ဆကန</field>
-            <field name="state_code">9</field>
+            <field name="state_code">၉</field>
         </record>
         <record id="nrc_township_takaung" model="nrc.township">
             <field name="name">(တကန) တကောင်း</field>
             <field name="code">တကန</field>
-            <field name="state_code">9</field>
+            <field name="state_code">၉</field>
         </record>
         <record id="nrc_township_tahtaung_oo" model="nrc.township">
             <field name="name">(တတဥ) တံတားဦး</field>
             <field name="code">တတဥ</field>
-            <field name="state_code">9</field>
+            <field name="state_code">၉</field>
         </record>
         <record id="nrc_township_taungtha" model="nrc.township">
             <field name="name">(တသန) တောင်သာ</field>
             <field name="code">တသန</field>
-            <field name="state_code">9</field>
+            <field name="state_code">၉</field>
         </record>
         <record id="nrc_township_thapatekyin" model="nrc.township">
             <field name="name">(သပက) သပိတ်ကျင်း</field>
             <field name="code">သပက</field>
-            <field name="state_code">9</field>
+            <field name="state_code">၉</field>
         </record>
         <record id="nrc_township_thazi" model="nrc.township">
             <field name="name">(သစန) သာစည်</field>
             <field name="code">သစန</field>
-            <field name="state_code">9</field>
+            <field name="state_code">၉</field>
         </record>
         <record id="nrc_township_wantwin" model="nrc.township">
             <field name="name">(ဝတန) ဝမ်းတွင်း</field>
             <field name="code">ဝတန</field>
-            <field name="state_code">9</field>
+            <field name="state_code">၉</field>
         </record>
         <record id="nrc_township_yamethin" model="nrc.township">
             <field name="name">(ရမသ) ရမည်းသင်း</field>
             <field name="code">ရမသ</field>
-            <field name="state_code">9</field>
+            <field name="state_code">၉</field>
         </record>
         <record id="nrc_township_nganzun" model="nrc.township">
             <field name="name">(ငဇန) ငါန်းဇွန်</field>
             <field name="code">ငဇန</field>
-            <field name="state_code">9</field>
+            <field name="state_code">၉</field>
         </record>
         <record id="nrc_township_pyawbwe2" model="nrc.township">
             <field name="name">(ပဘန) ပျော်ဘွယ်</field>
             <field name="code">ပဘန</field>
-            <field name="state_code">9</field>
+            <field name="state_code">၉</field>
         </record>
         <record id="nrc_township_uttarathiri2" model="nrc.township">
             <field name="name">(ဥတသ) ဥတ္တရသီရိ</field>
             <field name="code">ဥတသ</field>
-            <field name="state_code">9</field>
+            <field name="state_code">၉</field>
         </record>
         <record id="nrc_township_chan_aye_tharzan2" model="nrc.township">
             <field name="name">(ခအဇ) ချမ်းအေးသာစံ</field>
             <field name="code">ခအဇ</field>
-            <field name="state_code">9</field>
+            <field name="state_code">၉</field>
         </record>
 
         <!-- State Code 10 (Mon) -->
         <record id="nrc_township_beelin" model="nrc.township">
             <field name="name">(ဘလန) ဘီးလင်း</field>
             <field name="code">ဘလန</field>
-            <field name="state_code">10</field>
+            <field name="state_code">၁၀</field>
         </record>
         <record id="nrc_township_chaungsone" model="nrc.township">
             <field name="name">(ခဆန) ချောင်းဆုံ</field>
             <field name="code">ခဆန</field>
-            <field name="state_code">10</field>
+            <field name="state_code">၁၀</field>
         </record>
         <record id="nrc_township_kyaikmayaw" model="nrc.township">
             <field name="name">(ကမရ) ကျိုက်မရော</field>
             <field name="code">ကမရ</field>
-            <field name="state_code">10</field>
+            <field name="state_code">၁၀</field>
         </record>
         <record id="nrc_township_kyaikhto" model="nrc.township">
             <field name="name">(ကထန) ကျိုက်ထို</field>
             <field name="code">ကထန</field>
-            <field name="state_code">10</field>
+            <field name="state_code">၁၀</field>
         </record>
         <record id="nrc_township_mawlamyine" model="nrc.township">
             <field name="name">(မလမ) မော်လမြိုင်</field>
             <field name="code">မလမ</field>
-            <field name="state_code">10</field>
+            <field name="state_code">၁၀</field>
         </record>
         <record id="nrc_township_mudon" model="nrc.township">
             <field name="name">(မဒန) မုဒုံ</field>
             <field name="code">မဒန</field>
-            <field name="state_code">10</field>
+            <field name="state_code">၁၀</field>
         </record>
         <record id="nrc_township_paung" model="nrc.township">
             <field name="name">(ပမန) ပေါင်</field>
             <field name="code">ပမန</field>
-            <field name="state_code">10</field>
+            <field name="state_code">၁၀</field>
         </record>
         <record id="nrc_township_thanbyuzayat" model="nrc.township">
             <field name="name">(သဖရ) သံဖြူဇရပ်</field>
             <field name="code">သဖရ</field>
-            <field name="state_code">10</field>
+            <field name="state_code">၁၀</field>
         </record>
         <record id="nrc_township_thaton" model="nrc.township">
             <field name="name">(သထန) သထုံ</field>
             <field name="code">သထန</field>
-            <field name="state_code">10</field>
+            <field name="state_code">၁၀</field>
         </record>
         <record id="nrc_township_khawza" model="nrc.township">
             <field name="name">(ခဇန) ခေါဇာ</field>
             <field name="code">ခဇန</field>
-            <field name="state_code">10</field>
+            <field name="state_code">၁၀</field>
         </record>
         <record id="nrc_township_lamine" model="nrc.township">
             <field name="name">(လမန) လမိုင်း</field>
             <field name="code">လမန</field>
-            <field name="state_code">10</field>
+            <field name="state_code">၁၀</field>
         </record>
         <record id="nrc_township_ye" model="nrc.township">
             <field name="name">(ရမန) ရေး</field>
             <field name="code">ရမန</field>
-            <field name="state_code">10</field>
+            <field name="state_code">၁၀</field>
         </record>
         <record id="nrc_township_kyaikkhami" model="nrc.township">
             <field name="name">(ကခမ) ကျိုက္ခမီ</field>
             <field name="code">ကခမ</field>
-            <field name="state_code">10</field>
+            <field name="state_code">၁၀</field>
         </record>
 
         <!-- State Code 11 (Rakhine) -->
         <record id="nrc_township_anng" model="nrc.township">
             <field name="name">(အမန) အမ်း</field>
             <field name="code">အမန</field>
-            <field name="state_code">11</field>
+            <field name="state_code">၁၁</field>
         </record>
         <record id="nrc_township_buthidaung" model="nrc.township">
             <field name="name">(ဘသတ) ဘူးသီးတောင်</field>
             <field name="code">ဘသတ</field>
-            <field name="state_code">11</field>
+            <field name="state_code">၁၁</field>
         </record>
         <record id="nrc_township_gyo" model="nrc.township">
             <field name="name">(ဂမန) ဂွ</field>
             <field name="code">ဂမန</field>
-            <field name="state_code">11</field>
+            <field name="state_code">၁၁</field>
         </record>
         <record id="nrc_township_kyaukpyu" model="nrc.township">
             <field name="name">(ကဖန) ကျောက်ဖြူ</field>
             <field name="code">ကဖန</field>
-            <field name="state_code">11</field>
+            <field name="state_code">၁၁</field>
         </record>
         <record id="nrc_township_kyauktaw" model="nrc.township">
             <field name="name">(ကတန) ကျောက်တော်</field>
             <field name="code">ကတန</field>
-            <field name="state_code">11</field>
+            <field name="state_code">၁၁</field>
         </record>
         <record id="nrc_township_maan_aung" model="nrc.township">
             <field name="name">(မအန) မာန်အောင်</field>
             <field name="code">မအန</field>
-            <field name="state_code">11</field>
+            <field name="state_code">၁၁</field>
         </record>
         <record id="nrc_township_maungdaw" model="nrc.township">
             <field name="name">(မတန) မောင်းတော</field>
             <field name="code">မတန</field>
-            <field name="state_code">11</field>
+            <field name="state_code">၁၁</field>
         </record>
         <record id="nrc_township_minbya" model="nrc.township">
             <field name="name">(မပန) မင်းပြား</field>
             <field name="code">မပန</field>
-            <field name="state_code">11</field>
+            <field name="state_code">၁၁</field>
         </record>
         <record id="nrc_township_mrauk_u" model="nrc.township">
             <field name="name">(မဥန) မြောက်ဦး</field>
             <field name="code">မဥန</field>
-            <field name="state_code">11</field>
+            <field name="state_code">၁၁</field>
         </record>
         <record id="nrc_township_myebon" model="nrc.township">
             <field name="name">(မပတ) မြေပုံ</field>
             <field name="code">မပတ</field>
-            <field name="state_code">11</field>
+            <field name="state_code">၁၁</field>
         </record>
         <record id="nrc_township_pauk_taw" model="nrc.township">
             <field name="name">(ပတန) ပေါက်တော</field>
             <field name="code">ပတန</field>
-            <field name="state_code">11</field>
+            <field name="state_code">၁၁</field>
         </record>
         <record id="nrc_township_punna_kyun" model="nrc.township">
             <field name="name">(ပဏက) ပုဏ္ဏကျွန်း</field>
             <field name="code">ပဏက</field>
-            <field name="state_code">11</field>
+            <field name="state_code">၁၁</field>
         </record>
         <record id="nrc_township_sittwe" model="nrc.township">
             <field name="name">(စတန) စစ်တွေ</field>
             <field name="code">စတန</field>
-            <field name="state_code">11</field>
+            <field name="state_code">၁၁</field>
         </record>
         <record id="nrc_township_taunggoke" model="nrc.township">
             <field name="name">(တကန) တောင်ကုတ်</field>
             <field name="code">တကန</field>
-            <field name="state_code">11</field>
+            <field name="state_code">၁၁</field>
         </record>
         <record id="nrc_township_thandwe" model="nrc.township">
             <field name="name">(သတန) သံတွဲ</field>
             <field name="code">သတန</field>
-            <field name="state_code">11</field>
+            <field name="state_code">၁၁</field>
         </record>
         <record id="nrc_township_ram_bree" model="nrc.township">
             <field name="name">(ရဗန) ရမ်းဗြဲ</field>
             <field name="code">ရဗန</field>
-            <field name="state_code">11</field>
+            <field name="state_code">၁၁</field>
         </record>
         <record id="nrc_township_rathetaung" model="nrc.township">
             <field name="name">(ရသတ) ရသေ့တောင်</field>
             <field name="code">ရသတ</field>
-            <field name="state_code">11</field>
+            <field name="state_code">၁၁</field>
         </record>
         <record id="nrc_township_kyin_tali" model="nrc.township">
             <field name="name">(ကတလ) ကျိန္တလီ</field>
             <field name="code">ကတလ</field>
-            <field name="state_code">11</field>
+            <field name="state_code">၁၁</field>
         </record>
         <record id="nrc_township_ma_ee" model="nrc.township">
             <field name="name">(မအတ) မအီ</field>
             <field name="code">မအတ</field>
-            <field name="state_code">11</field>
+            <field name="state_code">၁၁</field>
         </record>
         <record id="nrc_township_taung_pyo_let_wei" model="nrc.township">
             <field name="name">(တပ၀) တောင်ပြိုလက်ဝဲ</field>
             <field name="code">တပ၀</field>
-            <field name="state_code">11</field>
+            <field name="state_code">၁၁</field>
         </record>
 
         <!-- State Code 12 (Yangon) -->
         <record id="nrc_township_alone" model="nrc.township">
             <field name="name">(အလန) အလုံ</field>
             <field name="code">အလန</field>
-            <field name="state_code">12</field>
+            <field name="state_code">၁၂</field>
         </record>
         <record id="nrc_township_bahan" model="nrc.township">
             <field name="name">(ဗဟန) ဗဟန်း</field>
             <field name="code">ဗဟန</field>
-            <field name="state_code">12</field>
+            <field name="state_code">၁၂</field>
         </record>
         <record id="nrc_township_botahtaung" model="nrc.township">
             <field name="name">(ဗတထ) ဗိုလ်တထောင်</field>
             <field name="code">ဗတထ</field>
-            <field name="state_code">12</field>
+            <field name="state_code">၁၂</field>
         </record>
         <record id="nrc_township_cocogyun" model="nrc.township">
             <field name="name">(ကကက) ကိုကိုးကျွန်း</field>
             <field name="code">ကကက</field>
-            <field name="state_code">12</field>
+            <field name="state_code">၁၂</field>
         </record>
         <record id="nrc_township_dagon" model="nrc.township">
             <field name="name">(ဒဂန) ဒဂုံ</field>
             <field name="code">ဒဂန</field>
-            <field name="state_code">12</field>
+            <field name="state_code">၁၂</field>
         </record>
         <record id="nrc_township_dagon_east" model="nrc.township">
             <field name="name">(ဒဂရ) ဒဂုံမြို့သစ်(အရှေ့ပိုင်း)</field>
             <field name="code">ဒဂရ</field>
-            <field name="state_code">12</field>
+            <field name="state_code">၁၂</field>
         </record>
         <record id="nrc_township_dagon_north" model="nrc.township">
             <field name="name">(ဒဂမ) ဒဂုံမြို့သစ်(မြောက်ပိုင်း)</field>
             <field name="code">ဒဂမ</field>
-            <field name="state_code">12</field>
+            <field name="state_code">၁၂</field>
         </record>
         <record id="nrc_township_dagon_seikkan" model="nrc.township">
             <field name="name">(ဒဆက) ဒဂုံမြို့သစ်ဆိပ်ကမ်း</field>
             <field name="code">ဒဆက</field>
-            <field name="state_code">12</field>
+            <field name="state_code">၁၂</field>
         </record>
         <record id="nrc_township_dagon_south" model="nrc.township">
             <field name="name">(ဒဂတ) ဒဂုံမြို့သစ်(တောင်ပိုင်း)</field>
             <field name="code">ဒဂတ</field>
-            <field name="state_code">12</field>
+            <field name="state_code">၁၂</field>
         </record>
         <record id="nrc_township_dala" model="nrc.township">
             <field name="name">(ဒလန) ဒလ</field>
             <field name="code">ဒလန</field>
-            <field name="state_code">12</field>
+            <field name="state_code">၁၂</field>
         </record>
         <record id="nrc_township_dawbon" model="nrc.township">
             <field name="name">(ဒပန) ဒေါပုံ</field>
             <field name="code">ဒပန</field>
-            <field name="state_code">12</field>
+            <field name="state_code">၁၂</field>
         </record>
         <record id="nrc_township_hlaing" model="nrc.township">
             <field name="name">(လမန) လှိုင်</field>
             <field name="code">လမန</field>
-            <field name="state_code">12</field>
+            <field name="state_code">၁၂</field>
         </record>
         <record id="nrc_township_hlaingtharya" model="nrc.township">
             <field name="name">(လသယ) လှိုင်သာယာ</field>
             <field name="code">လသယ</field>
-            <field name="state_code">12</field>
+            <field name="state_code">၁၂</field>
         </record>
         <record id="nrc_township_hlegu" model="nrc.township">
             <field name="name">(လကန) လှည်းကူး</field>
             <field name="code">လကန</field>
-            <field name="state_code">12</field>
+            <field name="state_code">၁၂</field>
         </record>
         <record id="nrc_township_htawbong" model="nrc.township">
             <field name="name">(မဘန) မှော်ဘီ</field>
             <field name="code">မဘန</field>
-            <field name="state_code">12</field>
+            <field name="state_code">၁၂</field>
         </record>
         <record id="nrc_township_htantabin" model="nrc.township">
             <field name="name">(ထတပ) ထန်းတပင်</field>
             <field name="code">ထတပ</field>
-            <field name="state_code">12</field>
+            <field name="state_code">၁၂</field>
         </record>
         <record id="nrc_township_insein" model="nrc.township">
             <field name="name">(အစန) အင်းစိန်</field>
             <field name="code">အစန</field>
-            <field name="state_code">12</field>
+            <field name="state_code">၁၂</field>
         </record>
         <record id="nrc_township_kamayut" model="nrc.township">
             <field name="name">(ကမရ) ကမာရွတ်</field>
             <field name="code">ကမရ</field>
-            <field name="state_code">12</field>
+            <field name="state_code">၁၂</field>
         </record>
         <record id="nrc_township_kawmhu" model="nrc.township">
             <field name="name">(ကမန) ကော့မှူး</field>
             <field name="code">ကမန</field>
-            <field name="state_code">12</field>
+            <field name="state_code">၁၂</field>
         </record>
         <record id="nrc_township_kayan" model="nrc.township">
             <field name="name">(ခရန) ခရမ်း</field>
             <field name="code">ခရန</field>
-            <field name="state_code">12</field>
+            <field name="state_code">၁၂</field>
         </record>
         <record id="nrc_township_kwanchankone" model="nrc.township">
             <field name="name">(ကခက) ကွမ်းခြံကုန်း</field>
             <field name="code">ကခက</field>
-            <field name="state_code">12</field>
+            <field name="state_code">၁၂</field>
         </record>
         <record id="nrc_township_kyauktada" model="nrc.township">
             <field name="name">(ကတတ) ကျောက်တံတား</field>
             <field name="code">ကတတ</field>
-            <field name="state_code">12</field>
+            <field name="state_code">၁၂</field>
         </record>
         <record id="nrc_township_kyauktan" model="nrc.township">
             <field name="name">(ကတန) ကျောက်တန်း</field>
             <field name="code">ကတန</field>
-            <field name="state_code">12</field>
+            <field name="state_code">၁၂</field>
         </record>
         <record id="nrc_township_kyimyindaing" model="nrc.township">
             <field name="name">(ကမတ) ကြည့်မြင်တိုင်</field>
             <field name="code">ကမတ</field>
-            <field name="state_code">12</field>
+            <field name="state_code">၁၂</field>
         </record>
         <record id="nrc_township_lanmadaw" model="nrc.township">
             <field name="name">(လမတ) လမ်းမတော်</field>
             <field name="code">လမတ</field>
-            <field name="state_code">12</field>
+            <field name="state_code">၁၂</field>
         </record>
         <record id="nrc_township_latha" model="nrc.township">
             <field name="name">(လသန) လသာ</field>
             <field name="code">လသန</field>
-            <field name="state_code">12</field>
+            <field name="state_code">၁၂</field>
         </record>
         <record id="nrc_township_mayangone" model="nrc.township">
             <field name="name">(မရက) မရမ်းကုန်း</field>
             <field name="code">မရက</field>
-            <field name="state_code">12</field>
+            <field name="state_code">၁၂</field>
         </record>
         <record id="nrc_township_mingalartaungnyunt" model="nrc.township">
             <field name="name">(မဂတ) မင်္ဂလာတောင်ညွှန့်</field>
             <field name="code">မဂတ</field>
-            <field name="state_code">12</field>
+            <field name="state_code">၁၂</field>
         </record>
         <record id="nrc_township_mingalardon" model="nrc.township">
             <field name="name">(မဂဒ) မင်္ဂလာဒုံ</field>
             <field name="code">မဂဒ</field>
-            <field name="state_code">12</field>
+            <field name="state_code">၁၂</field>
         </record>
         <record id="nrc_township_northokkalapa" model="nrc.township">
             <field name="name">(ဥကမ) မြောက်ဥက္ကလာပ</field>
             <field name="code">ဥကမ</field>
-            <field name="state_code">12</field>
+            <field name="state_code">၁၂</field>
         </record>
         <record id="nrc_township_panbedan" model="nrc.township">
             <field name="name">(ပဘတ) ပန်းဘဲတန်း</field>
             <field name="code">ပဘတ</field>
-            <field name="state_code">12</field>
+            <field name="state_code">၁၂</field>
         </record>
         <record id="nrc_township_pazundaung" model="nrc.township">
             <field name="name">(ပဇတ) ပုဇွန်တောင်</field>
             <field name="code">ပဇတ</field>
-            <field name="state_code">12</field>
+            <field name="state_code">၁၂</field>
         </record>
         <record id="nrc_township_sanchaung" model="nrc.township">
             <field name="name">(စခန) စမ်းချောင်း</field>
             <field name="code">စခန</field>
-            <field name="state_code">12</field>
+            <field name="state_code">၁၂</field>
         </record>
         <record id="nrc_township_seikkyikanaungto" model="nrc.township">
             <field name="name">(ဆကခ) ဆိပ်ကြီးခနောင်တို</field>
             <field name="code">ဆကခ</field>
-            <field name="state_code">12</field>
+            <field name="state_code">၁၂</field>
         </record>
         <record id="nrc_township_seikkan" model="nrc.township">
             <field name="name">(ဆကန) ဆိပ်ကမ်း</field>
             <field name="code">ဆကန</field>
-            <field name="state_code">12</field>
+            <field name="state_code">၁၂</field>
         </record>
         <record id="nrc_township_shwepaukkan" model="nrc.township">
             <field name="name">(ရပက) ရွှေပေါက်ကံ</field>
             <field name="code">ရပက</field>
-            <field name="state_code">12</field>
+            <field name="state_code">၁၂</field>
         </record>
         <record id="nrc_township_shwepyithar" model="nrc.township">
             <field name="name">(ရပသ) ရွှေပြည်သာ</field>
             <field name="code">ရပသ</field>
-            <field name="state_code">12</field>
+            <field name="state_code">၁၂</field>
         </record>
         <record id="nrc_township_southokkalapa" model="nrc.township">
             <field name="name">(ဥကတ) တောင်ဥက္ကလာပ</field>
             <field name="code">ဥကတ</field>
-            <field name="state_code">12</field>
+            <field name="state_code">၁၂</field>
         </record>
         <record id="nrc_township_taikkyi" model="nrc.township">
             <field name="name">(တကန) တိုက်ကြီး</field>
             <field name="code">တကန</field>
-            <field name="state_code">12</field>
+            <field name="state_code">၁၂</field>
         </record>
         <record id="nrc_township_tamwe" model="nrc.township">
             <field name="name">(တမန) တာမွေ</field>
             <field name="code">တမန</field>
-            <field name="state_code">12</field>
+            <field name="state_code">၁၂</field>
         </record>
         <record id="nrc_township_thaketa" model="nrc.township">
             <field name="name">(သကတ) သာကေတ</field>
             <field name="code">သကတ</field>
-            <field name="state_code">12</field>
+            <field name="state_code">၁၂</field>
         </record>
         <record id="nrc_township_thanlyin" model="nrc.township">
             <field name="name">(သလန) သန်လျင်</field>
             <field name="code">သလန</field>
-            <field name="state_code">12</field>
+            <field name="state_code">၁၂</field>
         </record>
         <record id="nrc_township_thingangyun" model="nrc.township">
             <field name="name">(သဃက) သင်္ဃန်းကျွန်း</field>
             <field name="code">သဃက</field>
-            <field name="state_code">12</field>
+            <field name="state_code">၁၂</field>
         </record>
         <record id="nrc_township_thongwa" model="nrc.township">
             <field name="name">(သခန) သုံးခွ</field>
             <field name="code">သခန</field>
-            <field name="state_code">12</field>
+            <field name="state_code">၁၂</field>
         </record>
         <record id="nrc_township_twantay" model="nrc.township">
             <field name="name">(တတန) တွံတေး</field>
             <field name="code">တတန</field>
-            <field name="state_code">12</field>
+            <field name="state_code">၁၂</field>
         </record>
         <record id="nrc_township_yankin" model="nrc.township">
             <field name="name">(ရကန) ရန်ကင်း</field>
             <field name="code">ရကန</field>
-            <field name="state_code">12</field>
+            <field name="state_code">၁၂</field>
         </record>
         <record id="nrc_township_tatata" model="nrc.township">
             <field name="name">တတထ (တံတား)</field>
             <field name="code">တတထ</field>
-            <field name="state_code">12</field>
+            <field name="state_code">၁၂</field>
         </record>
         
         <!-- State Code 13 (Shan) -->
         <record id="nrc_township_chinshwehaw" model="nrc.township">
             <field name="name">(ခရဟ) ချင်းရွှေဟော် မြို့နယ်ခွဲ</field>
             <field name="code">ခရဟ</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
         <record id="nrc_township_hopang" model="nrc.township">
             <field name="name">(ဟပတ) ဟိုပန်</field>
             <field name="code">ဟပတ</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
         <record id="nrc_township_hopong" model="nrc.township">
             <field name="name">(ဟပန) ဟိုပုံး</field>
             <field name="code">ဟပန</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
         <record id="nrc_township_kalaw" model="nrc.township">
             <field name="name">(ကလန) ကလော</field>
             <field name="code">ကလန</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
         <record id="nrc_township_kwanlone" model="nrc.township">
             <field name="name">(ကလတ) ကွမ်းလုံ</field>
             <field name="code">ကလတ</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
         <record id="nrc_township_konhein" model="nrc.township">
             <field name="name">(ကဟန) ကွန်ဟိန်း</field>
             <field name="code">ကဟန</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
         <record id="nrc_township_kyaithi" model="nrc.township">
             <field name="name">(ကသန) ကျေးသီး</field>
             <field name="code">ကသန</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
         <record id="nrc_township_kyengtong" model="nrc.township">
             <field name="name">(ကတတ) ကျိုင်းတောင်း</field>
             <field name="code">ကတတ</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
         <record id="nrc_township_kyaington" model="nrc.township">
             <field name="name">(ကတန) ကျိုင်းတုံ</field>
             <field name="code">ကတန</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
         <record id="nrc_township_kyaukme" model="nrc.township">
             <field name="name">(ကမန) ကျောက်မဲ</field>
             <field name="code">ကမန</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
         <record id="nrc_township_kutkai" model="nrc.township">
             <field name="name">(ကခန) ကွတ်ခိုင်</field>
             <field name="code">ကခန</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
         <record id="nrc_township_lashio" model="nrc.township">
             <field name="name">(လရန) လားရှိုး</field>
             <field name="code">လရန</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
         <record id="nrc_township_laukkaing" model="nrc.township">
             <field name="name">(လကန) လောက်ကိုင်</field>
             <field name="code">လကန</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
         <record id="nrc_township_lechar" model="nrc.township">
             <field name="name">(လခတ) လဲချား</field>
             <field name="code">လခတ</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
         <record id="nrc_township_linkhay" model="nrc.township">
             <field name="name">(လခန) လင်းခေး</field>
             <field name="code">လခန</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
         <record id="nrc_township_loilen" model="nrc.township">
             <field name="name">(လလန) လွိုင်လင်</field>
             <field name="code">လလန</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
         <record id="nrc_township_mabein" model="nrc.township">
             <field name="name">(မဘန) မဘိမ်း</field>
             <field name="code">မဘန</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
         <record id="nrc_township_mainkain" model="nrc.township">
             <field name="name">(မကန) မိုင်းကိုင်</field>
             <field name="code">မကန</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
         <record id="nrc_township_mainkhat" model="nrc.township">
             <field name="name">(မခန) မိုင်းခတ်</field>
             <field name="code">မခန</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
         <record id="nrc_township_mainphat" model="nrc.township">
             <field name="name">(မဖန) မိုင်းဖြတ်</field>
             <field name="code">မဖန</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
         <record id="nrc_township_mainbyin" model="nrc.township">
             <field name="name">(မပတ) မိုင်းပြင်း</field>
             <field name="code">မပတ</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
         <record id="nrc_township_mainsat" model="nrc.township">
             <field name="name">(မဆန) မိုင်းဆတ်</field>
             <field name="code">မဆန</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
         <record id="nrc_township_mainshu" model="nrc.township">
             <field name="name">(မရန) မိုင်းရှူး</field>
             <field name="code">မရန</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
         <record id="nrc_township_mainye" model="nrc.township">
             <field name="name">(မရတ) မိုင်းရယ်</field>
             <field name="code">မရတ</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
         <record id="nrc_township_mantong" model="nrc.township">
             <field name="name">(မတတ) မန်တုန်</field>
             <field name="code">မတတ</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
         <record id="nrc_township_mongmit" model="nrc.township">
             <field name="name">(မမတ) မိုးမိတ်</field>
             <field name="code">မမတ</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
         <record id="nrc_township_mongnai" model="nrc.township">
             <field name="name">(မနန) မိုးနဲ</field>
             <field name="code">မနန</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
         <record id="nrc_township_monekoe" model="nrc.township">
             <field name="name">(မကန) မုန်းကိုး</field>
             <field name="code">မကန</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
         <record id="nrc_township_muse" model="nrc.township">
             <field name="name">(မဆတ) မူဆယ်</field>
             <field name="code">မဆတ</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
         <record id="nrc_township_nammtu" model="nrc.township">
             <field name="name">(နမတ) နမ့်မတူ</field>
             <field name="code">နမတ</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
         <record id="nrc_township_namkham" model="nrc.township">
             <field name="name">(နခန) နမ့်ခမ်း</field>
             <field name="code">နခန</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
         <record id="nrc_township_namsan" model="nrc.township">
             <field name="name">(နဆန) နမ့်ဆန်</field>
             <field name="code">နဆန</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
         <record id="nrc_township_namphai" model="nrc.township">
             <field name="name">(နဖန) နမ့်ဖိုင်</field>
             <field name="code">နဖန</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
         <record id="nrc_township_nawnghkyaw" model="nrc.township">
             <field name="name">(နခတ) နောင်ချို</field>
             <field name="code">နခတ</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
         <record id="nrc_township_nyaungshwe" model="nrc.township">
             <field name="name">(ညရန) ညောင်ရွှေ</field>
             <field name="code">ညရန</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
         <record id="nrc_township_hsipaw" model="nrc.township">
             <field name="name">(ဖခန) ဖယ်ခုံ</field>
             <field name="code">ဖခန</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
         <record id="nrc_township_panglong" model="nrc.township">
             <field name="name">(ပလန) ပင်လုံ</field>
             <field name="code">ပလန</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
         <record id="nrc_township_pindaya" model="nrc.township">
             <field name="name">(ပတရ) ပင်းတယ</field>
             <field name="code">ပတရ</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
         <record id="nrc_township_sisai" model="nrc.township">
             <field name="name">(ဆဆန) ဆီဆိုင်</field>
             <field name="code">ဆဆန</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
         <record id="nrc_township_shwenyaung" model="nrc.township">
             <field name="name">(ရညန) ရွှေညောင်</field>
             <field name="code">ရညန</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
         <record id="nrc_township_tanyang" model="nrc.township">
             <field name="name">(တယန) တန့်ယန်း</field>
             <field name="code">တယန</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
         <record id="nrc_township_tamonyan" model="nrc.township">
             <field name="name">(တမည) တာမိုးည</field>
             <field name="code">တမည</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
         <record id="nrc_township_tachileik" model="nrc.township">
             <field name="name">(တခလ) တာချီလိတ်</field>
             <field name="code">တခလ</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
         <record id="nrc_township_tale" model="nrc.township">
             <field name="name">(တလန) တာလေ</field>
             <field name="code">တလန</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
         <record id="nrc_township_taunggyi" model="nrc.township">
             <field name="name">(တကန) တောင်ကြီး</field>
             <field name="code">တကန</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
         <record id="nrc_township_theinni" model="nrc.township">
             <field name="name">(သနန) သိန္နီ</field>
             <field name="code">သနန</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
         <record id="nrc_township_thibaw" model="nrc.township">
             <field name="name">(သပန) သီပေါ</field>
             <field name="code">သပန</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
         <record id="nrc_township_ywarngan" model="nrc.township">
             <field name="name">(ရငန) ရွာငံ</field>
             <field name="code">ရငန</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
         <record id="nrc_township_yatsaik" model="nrc.township">
             <field name="name">(ရစန) ရပ်စောက်</field>
             <field name="code">ရစန</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
         <record id="nrc_township_aungpan" model="nrc.township">
             <field name="name">(အပန) အောင်ပန်း</field>
             <field name="code">အပန</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
         <record id="nrc_township_intaw" model="nrc.township">
             <field name="name">(အတန) အင်တော</field>
             <field name="code">အတန</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
         <record id="nrc_township_aysayar" model="nrc.township">
             <field name="name">(အသယ) အေးသာယာ</field>
             <field name="code">အသယ</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
         <record id="nrc_township_heiho" model="nrc.township">
             <field name="name">(ဟဟန) ဟဲဟိုး</field>
             <field name="code">ဟဟန</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
         <record id="nrc_township_homine" model="nrc.township">
             <field name="name">(ဟမန) ဟိုမိန်း</field>
             <field name="code">ဟမန</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
         <record id="nrc_township_kyainlap" model="nrc.township">
             <field name="name">(ကလထ) ကျိုင်းလပ်</field>
             <field name="code">ကလထ</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
         <record id="nrc_township_kholam" model="nrc.township">
             <field name="name">(ခလန) ခိုလမ်</field>
             <field name="code">ခလန</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
         <record id="nrc_township_mawhtike" model="nrc.township">
             <field name="name">(မထန) မော်ထိုက်</field>
             <field name="code">မထန</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
         <record id="nrc_township_mainkhut" model="nrc.township">
             <field name="name">(မခတ) မိုင်းခုတ်</field>
             <field name="code">မခတ</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
         <record id="nrc_township_maingngaw" model="nrc.township">
             <field name="name">(မငန) မိုင်းငေါ့</field>
             <field name="code">မငန</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
         <record id="nrc_township_mainphyan" model="nrc.township">
             <field name="name">(မဖထ) မိုင်းဖျန်</field>
             <field name="code">မဖထ</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
         <record id="nrc_township_naungtaray" model="nrc.township">
             <field name="name">(နတရ) နောင်တရား</field>
             <field name="code">နတရ</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
         <record id="nrc_township_pongpakyin" model="nrc.township">
             <field name="name">(ပပက) ပုံပါကျင်</field>
             <field name="code">ပပက</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
         <record id="nrc_township_panwai" model="nrc.township">
             <field name="name">(ပဝန) ပန်ဝိုင်</field>
             <field name="code">ပဝန</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
         <record id="nrc_township_tonta" model="nrc.township">
             <field name="name">(တတန) တုံတာ</field>
             <field name="code">တတန</field>
-            <field name="state_code">13</field>
+            <field name="state_code">၁၃</field>
         </record>
 
         <!-- State Code 14 (Ayeyarwady) -->
         <record id="nrc_township_bokalay" model="nrc.township">
             <field name="name">(ဘကလ) ဘိုကလေး</field>
             <field name="code">ဘကလ</field>
-            <field name="state_code">14</field>
+            <field name="state_code">၁၄</field>
         </record>
         <record id="nrc_township_danubyu" model="nrc.township">
             <field name="name">(ဓနဖ) ဓနုဖြူ</field>
             <field name="code">ဓနဖ</field>
-            <field name="state_code">14</field>
+            <field name="state_code">၁၄</field>
         </record>
         <record id="nrc_township_dedaye" model="nrc.township">
             <field name="name">(ဒဒရ) ဒေးဒရဲ</field>
             <field name="code">ဒဒရ</field>
-            <field name="state_code">14</field>
+            <field name="state_code">၁၄</field>
         </record>
         <record id="nrc_township_pathein_east" model="nrc.township">
             <field name="name">(ပသရ) ပုသိမ်(အရှေ့)</field>
             <field name="code">ပသရ</field>
-            <field name="state_code">14</field>
+            <field name="state_code">၁၄</field>
         </record>
         <record id="nrc_township_eimme" model="nrc.township">
             <field name="name">(အမန) အိမ်မဲ</field>
             <field name="code">အမန</field>
-            <field name="state_code">14</field>
+            <field name="state_code">၁၄</field>
         </record>
         <record id="nrc_township_hainggyikyun" model="nrc.township">
             <field name="name">(ဟကက) ဟိုင်းကြီးကျွန်း</field>
             <field name="code">ဟကက</field>
-            <field name="state_code">14</field>
+            <field name="state_code">၁၄</field>
         </record>
         <record id="nrc_township_hinthada" model="nrc.township">
             <field name="name">(ဟသတ) ဟင်္သာတ</field>
             <field name="code">ဟသတ</field>
-            <field name="state_code">14</field>
+            <field name="state_code">၁၄</field>
         </record>
         <record id="nrc_township_ngapudaw" model="nrc.township">
             <field name="name">(အဂပ) အင်္ဂပူ</field>
             <field name="code">အဂပ</field>
-            <field name="state_code">14</field>
+            <field name="state_code">၁၄</field>
         </record>
         <record id="nrc_township_kanaung" model="nrc.township">
             <field name="name">(ခနန) ခနောင်</field>
             <field name="code">ခနန</field>
-            <field name="state_code">14</field>
+            <field name="state_code">၁၄</field>
         </record>
         <record id="nrc_township_kyailat" model="nrc.township">
             <field name="name">(ကလန) ကျိုက်လတ်</field>
             <field name="code">ကလန</field>
-            <field name="state_code">14</field>
+            <field name="state_code">၁၄</field>
         </record>
         <record id="nrc_township_kyankhin" model="nrc.township">
             <field name="name">(ကခန) ကြံခင်း</field>
             <field name="code">ကခန</field>
-            <field name="state_code">14</field>
+            <field name="state_code">၁၄</field>
         </record>
         <record id="nrc_township_chaungkone" model="nrc.township">
             <field name="name">(ကကန) ကျောင်းကုန်း</field>
             <field name="code">ကကန</field>
-            <field name="state_code">14</field>
+            <field name="state_code">၁၄</field>
         </record>
         <record id="nrc_township_kyonepyaw" model="nrc.township">
             <field name="name">(ကပန) ကျုံပျော်</field>
             <field name="code">ကပန</field>
-            <field name="state_code">14</field>
+            <field name="state_code">၁၄</field>
         </record>
         <record id="nrc_township_laputta" model="nrc.township">
             <field name="name">(လပတ) လပွတ္တာ</field>
             <field name="code">လပတ</field>
-            <field name="state_code">14</field>
+            <field name="state_code">၁၄</field>
         </record>
         <record id="nrc_township_lemyehna" model="nrc.township">
             <field name="name">(လမန) လေးမျက်နှာ</field>
             <field name="code">လမန</field>
-            <field name="state_code">14</field>
+            <field name="state_code">၁၄</field>
         </record>
         <record id="nrc_township_maubin" model="nrc.township">
             <field name="name">(မအပ) မအူပင်</field>
             <field name="code">မအပ</field>
-            <field name="state_code">14</field>
+            <field name="state_code">၁၄</field>
         </record>
         <record id="nrc_township_mawlamyainggyun" model="nrc.township">
             <field name="name">(မမက) မော်လမြိုင်ကျွန်း</field>
             <field name="code">မမက</field>
-            <field name="state_code">14</field>
+            <field name="state_code">၁၄</field>
         </record>
         <record id="nrc_township_myanaung" model="nrc.township">
             <field name="name">(မအန) မြန်အောင်</field>
             <field name="code">မအန</field>
-            <field name="state_code">14</field>
+            <field name="state_code">၁၄</field>
         </record>
         <record id="nrc_township_myaungmya" model="nrc.township">
             <field name="name">(မမန) မြောင်းမြ</field>
             <field name="code">မမန</field>
-            <field name="state_code">14</field>
+            <field name="state_code">၁၄</field>
         </record>
         <record id="nrc_township_ngaputaw" model="nrc.township">
             <field name="name">(ငပတ) ငပုတော</field>
             <field name="code">ငပတ</field>
-            <field name="state_code">14</field>
+            <field name="state_code">၁၄</field>
         </record>
         <record id="nrc_township_ngathaingchaung" model="nrc.township">
             <field name="name">(ငသခ) ငါးသိုင်းချောင်း</field>
             <field name="code">ငသခ</field>
-            <field name="state_code">14</field>
+            <field name="state_code">၁၄</field>
         </record>
         <record id="nrc_township_nyaungtone" model="nrc.township">
             <field name="name">(ညတန) ညောင်တုန်း</field>
             <field name="code">ညတန</field>
-            <field name="state_code">14</field>
+            <field name="state_code">၁၄</field>
         </record>
         <record id="nrc_township_pantanaw" model="nrc.township">
             <field name="name">(ပတန) ပန်းတနော်</field>
             <field name="code">ပတန</field>
-            <field name="state_code">14</field>
+            <field name="state_code">၁၄</field>
         </record>
         <record id="nrc_township_phyapon" model="nrc.township">
             <field name="name">(ဖပန) ဖျာပုံ</field>
             <field name="code">ဖပန</field>
-            <field name="state_code">14</field>
+            <field name="state_code">၁၄</field>
         </record>
         <record id="nrc_township_thabaung" model="nrc.township">
             <field name="name">(သပန) သာပေါင်း</field>
             <field name="code">သပန</field>
-            <field name="state_code">14</field>
+            <field name="state_code">၁၄</field>
         </record>
         <record id="nrc_township_wakema" model="nrc.township">
             <field name="name">(၀ခမ) ဝါးခယ်မ</field>
             <field name="code">၀ခမ</field>
-            <field name="state_code">14</field>
+            <field name="state_code">၁၄</field>
         </record>
         <record id="nrc_township_pathein_west" model="nrc.township">
             <field name="name">(ပသန) ပုသိမ်(အနောက်)</field>
             <field name="code">ပသန</field>
-            <field name="state_code">14</field>
+            <field name="state_code">၁၄</field>
         </record>
         <record id="nrc_township_yeji" model="nrc.township">
             <field name="name">(ရကန) ရေကြည်</field>
             <field name="code">ရကန</field>
-            <field name="state_code">14</field>
+            <field name="state_code">၁၄</field>
         </record>
         <record id="nrc_township_zalun" model="nrc.township">
             <field name="name">(ဇလန) ဇလွန်</field>
             <field name="code">ဇလန</field>
-            <field name="state_code">14</field>
+            <field name="state_code">၁၄</field>
         </record>
         <record id="nrc_township_kan_gyi_taung" model="nrc.township">
             <field name="name">(ကကထ) ကန်ကြီးထောင့်</field>
             <field name="code">ကကထ</field>
-            <field name="state_code">14</field>
+            <field name="state_code">၁၄</field>
         </record>
         <record id="nrc_township_amar" model="nrc.township">
             <field name="name">(အမတ) အမာ</field>
             <field name="code">အမတ</field>
-            <field name="state_code">14</field>
+            <field name="state_code">၁၄</field>
         </record>
         <record id="nrc_township_ngayokkaung" model="nrc.township">
             <field name="name">(ငရက) ငရုတ်ကောင်း</field>
             <field name="code">ငရက</field>
-            <field name="state_code">14</field>
+            <field name="state_code">၁၄</field>
         </record>
         <record id="nrc_township_pyinsalu" model="nrc.township">
             <field name="name">(ပစလ) ပြင်စလူ</field>
             <field name="code">ပစလ</field>
-            <field name="state_code">14</field>
+            <field name="state_code">၁၄</field>
         </record>
         <record id="nrc_township_shwethaungyan" model="nrc.township">
             <field name="name">(ရသယ) ရွှေသောင်ယံ</field>
             <field name="code">ရသယ</field>
-            <field name="state_code">14</field>
+            <field name="state_code">၁၄</field>
         </record>
     </data>
 </odoo>
