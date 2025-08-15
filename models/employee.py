@@ -154,4 +154,13 @@ class Employee(models.Model):
         string="Certifications"
     )
 
+
+    resource_calendar_ids = fields.Many2many(
+        'resource.calendar',
+        'employee_calendar_rel',  # relation table name
+        'employee_id',            # column for employee
+        'calendar_id',            # column for calendar
+        string='Working Hours'
+    )
+
     

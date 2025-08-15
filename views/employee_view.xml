@@ -141,9 +141,14 @@
                     <attribute name="invisible">1</attribute>
             </xpath>
 
-            <xpath expr="//field[@name='study_field']" position="before">
-                <field name="certification_ids" widget="many2many_tags"/>
+            
+            <field name="resource_calendar_id" attrs="{'invisible': [('id', '!=', 0)]}"/>
+
+
+            <xpath expr="//field[@name='resource_calendar_id']" position="after" optional="true">
+                <field name="resource_calendar_ids" widget="many2many_tags"/>
             </xpath>
+
 
                 
         </field>
