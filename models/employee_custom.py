@@ -6,6 +6,7 @@ _logger = logging.getLogger(__name__)
 class Employee(models.Model):
     _inherit = 'hr.employee'
 
+    employee_number = fields.Char(string="Employee ID Number")
     nrc_state_code = fields.Selection([
         ('၁', '၁'), ('၂', '၂'),
         ('၃', '၃'), ('၄', '၄'),
@@ -142,8 +143,6 @@ class Employee(models.Model):
                 if hr_dept.manager_id and hr_dept.manager_id.name not in names:
                     names.append(hr_dept.manager_id.name)
             rec.hr_officer_names = ', '.join(names) if names else ''
-
-    employee_number = fields.Char(string="Employee ID Number")
 
     personal_email = fields.Char(string="Email")
     personal_phone = fields.Char(string='Phone')

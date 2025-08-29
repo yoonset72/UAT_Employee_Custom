@@ -5,6 +5,11 @@
         <field name="inherit_id" ref="hr.view_employee_form"/>
         <field name="arch" type="xml">
 
+            <!-- Add new employee_id field before work_phone -->
+                <xpath expr="//field[@name='work_phone']" position="before">
+                    <field name="employee_number"/>
+            </xpath>
+
             <!-- add nrc field -->
             <xpath expr="//field[@name='country_id']" position="after">
                 <label for="nrc_number" string="NRC No." class="o_form_label"/>
@@ -110,11 +115,6 @@
             <!-- Hide the existing mobile_phone field -->
                 <xpath expr="//field[@name='mobile_phone']" position="attributes">
                     <attribute name="invisible">1</attribute>
-                </xpath>
-
-                <!-- Add new employee_id field before work_phone -->
-                <xpath expr="//field[@name='work_phone']" position="before">
-                    <field name="employee_number"/>
                 </xpath>
 
                 <field name="address_home_id" position="attributes">
