@@ -32,9 +32,12 @@
                 <field name="join_date"/>
             </xpath>
 
+            <xpath expr="//field[@name='join_date']" position="after">
+                <field name="permanent_date"/>
+            </xpath>
 
             <!-- add off day field -->
-            <xpath expr="//field[@name='join_date']" position="after">
+            <xpath expr="//field[@name='permanent_date']" position="after">
                 <field name="off_day" widget="many2many_tags"/>
             </xpath>
 
@@ -133,9 +136,10 @@
                     <field name="bank_account" />
                 </xpath>
           
-             <xpath expr="//group[@name='managers']" position="inside">
-                <field name="hr_officer_names" readonly="1"/>
+            <xpath expr="//group[@name='managers']" position="inside">
+                <field name="hr_officer_ids" widget="many2many_tags"/>
             </xpath>
+
 
             <xpath expr="//field[@name='certificate']" position="attributes">
                     <attribute name="invisible">1</attribute>

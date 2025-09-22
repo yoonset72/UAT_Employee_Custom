@@ -82,6 +82,7 @@ class Employee(models.Model):
             _logger.warning("Township not found for code: %s", township_code)
 
     join_date = fields.Date(string="Join Date")
+    permanent_date = fields.Date(string="Permanent Date")
     off_day = fields.Many2many('day.selection', string='Off Day')
 
     @api.model
@@ -99,7 +100,6 @@ class Employee(models.Model):
             manager = rec.department_id.manager_id
             if manager:
                 if not manager.user_id:
-                    # Try to create a user for the manager if none exists
                     try:
                         login_email = manager.work_email or (manager.name.lower().replace(" ", "") + '@agbcommunication.com')
                         user = self.env['res.users'].create({
@@ -122,27 +122,14 @@ class Employee(models.Model):
                 rec.leave_manager_id = False
                 _logger.info(f"No manager found for department {rec.department_id.name if rec.department_id else 'N/A'}")
 
-   
-
-    hr_officer_names = fields.Char(
-        string="Time Off Officers",
-        compute='_compute_hr_officer_names',
-        store=True
+    # ✅ New manual Many2many field (replacing auto-computed Char field)
+    hr_officer_ids = fields.Many2many(
+        'res.users',
+        'employee_hr_officer_user_rel',  # use a new rel table to avoid schema conflicts
+        'employee_id',
+        'user_id',
+        string="Time Off Officers"
     )
-
-    @api.depends('department_id')
-    def _compute_hr_officer_names(self):
-        for rec in self:
-            names = []
-            hr_dept = self.env['hr.department'].search([('name', '=', 'Human Resources')], limit=1)
-            if hr_dept:
-                # Add HR employees
-                hr_employees = hr_dept.member_ids
-                names = hr_employees.mapped('name')
-                # Add HR manager if not already included
-                if hr_dept.manager_id and hr_dept.manager_id.name not in names:
-                    names.append(hr_dept.manager_id.name)
-            rec.hr_officer_names = ', '.join(names) if names else ''
 
     personal_email = fields.Char(string="Email")
     personal_phone = fields.Char(string='Phone')
@@ -153,13 +140,10 @@ class Employee(models.Model):
         string="Certifications"
     )
 
-
     resource_calendar_ids = fields.Many2many(
         'resource.calendar',
-        'employee_calendar_rel',  # relation table name
-        'employee_id',            # column for employee
-        'calendar_id',            # column for calendar
+        'employee_calendar_rel',
+        'employee_id',
+        'calendar_id',
         string='Working Hours'
     )
-
-    
